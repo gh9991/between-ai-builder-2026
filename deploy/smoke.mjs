@@ -18,6 +18,7 @@ for (const route of ['/between.html','/universe2.css','/universe2.bundle.js',
   '/i18n.js','/universe2-attention.js?v=20261017-en2',
   '/styles/timeline.html','/styles/timeline.js','/styles/universe2-project-space.html',
   '/styles/universe2-project-space.js','/vendor/three.module.js','/reports/architect.html',
+  '/styles/universe2-project-space.css','/styles/fusion.css',
   '/data/scenarios/architect/worklife.json','/data/scenarios/architect/scenario.json']) {
   const res = await get(route);
   assert.equal(res.status,200,route);
