@@ -44,6 +44,18 @@ for (const dir of ['styles', 'vendor']) {
 for (const persona of ['architect']) {
   for (const name of ['scenario.json', 'worklife.json']) files.push(`data/scenarios/${persona}/${name}`);
 }
+// A stylesheet can exist while its imported layout is missing from the release.
+// Check every local CSS dependency before publishing any of the assets.
+const publicFiles = new Set(files);
+for (const file of files.filter(file => file.endsWith('.css'))) {
+  const css = await fs.readFile(path.join(root, file), 'utf8');
+  for (const match of css.matchAll(/@import\s+(?:url\(\s*)?["']([^"']+)["']/g)) {
+    const reference = match[1];
+    if (/^(?:https?:|data:|\/\/)/.test(reference)) continue;
+    const dependency = path.posix.normalize(path.posix.join(path.posix.dirname(file), reference.split(/[?#]/)[0]));
+    if (!publicFiles.has(dependency)) throw Error(`Missing stylesheet dependency: ${file} -> ${dependency}`);
+  }
+}
 for (const file of files) {
   const source = path.join(root, file), dest = path.join(output, file);
   if (!(await fs.lstat(source)).isFile()) throw Error(`Not a regular file: ${file}`);
