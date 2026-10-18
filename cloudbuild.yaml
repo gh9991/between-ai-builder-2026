@@ -1,0 +1,41 @@
+# Trigger: gh9991/between-ai-builder-2026, push to ^main$ only. No model keys are required.
+steps:
+  - id: check-report
+    name: node:22-bookworm-slim
+    args: ['node', '--test', 'work-memory/scripts/monthly-contributions/report.test.mjs']
+  - id: build-and-check
+    name: gcr.io/cloud-builders/docker
+    entrypoint: bash
+    args:
+      - -ceu
+      - |
+        docker build --target build --build-arg APP_COMMIT=$COMMIT_SHA -t between-check:$BUILD_ID .
+        docker run --rm between-check:$BUILD_ID sh -c 'npm --prefix work-memory run check && node --test deploy/server.test.mjs deploy/archive.test.mjs'
+        docker build --build-arg APP_COMMIT=$COMMIT_SHA -t ${_REGION}-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/${_SERVICE}:$COMMIT_SHA .
+  - id: push-image
+    name: gcr.io/cloud-builders/docker
+    args: ['push', '${_REGION}-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/${_SERVICE}:$COMMIT_SHA']
+  - id: deploy
+    name: gcr.io/google.com/cloudsdktool/cloud-sdk:slim
+    entrypoint: bash
+    args:
+      - -ceu
+      - |
+        gcloud run deploy ${_SERVICE} --project=$PROJECT_ID --region=${_REGION} \
+          --image=${_REGION}-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/${_SERVICE}:$COMMIT_SHA \
+          --service-account=between-web@$PROJECT_ID.iam.gserviceaccount.com \
+          --revision-suffix=git-$SHORT_SHA-$BUILD_ID --quiet
+        gcloud run services update-traffic ${_SERVICE} --project=$PROJECT_ID --region=${_REGION} --to-revisions=${_SERVICE}-git-$SHORT_SHA-$BUILD_ID=100 --quiet
+        gcloud run services describe ${_SERVICE} --project=$PROJECT_ID --region=${_REGION} --format='value(status.url)' > /workspace/service-url.txt
+  - id: verify-public-site
+    name: node:22-bookworm-slim
+    entrypoint: bash
+    args: ['-ceu', 'node deploy/smoke.mjs "$$(cat /workspace/service-url.txt)" "$COMMIT_SHA"']
+images:
+  - '${_REGION}-docker.pkg.dev/$PROJECT_ID/cloud-run-source-deploy/${_SERVICE}:$COMMIT_SHA'
+substitutions:
+  _REGION: australia-southeast1
+  _SERVICE: between-web
+options:
+  logging: CLOUD_LOGGING_ONLY
+timeout: 1200s

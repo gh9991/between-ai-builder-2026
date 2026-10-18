@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.zip
+dist-cloud/
+work-memory/*.bundle.js
+work-memory/reports/
+work-memory/daily-memory/runs/
+deploy/revision.txt

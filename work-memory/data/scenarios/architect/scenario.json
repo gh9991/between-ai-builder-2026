@@ -1,0 +1,683 @@
+{
+  "id": "architect",
+  "contribution_report": "./reports/architect.html",
+  "title": "Grace · Architect",
+  "title_en": "Grace · Architect",
+  "persona_id": "grace",
+  "persona_role_label": "Architect",
+  "persona_role_label_en": "Architect",
+  "home_org_id": "meridian",
+  "daily_project_id": "studio",
+  "period_label": "Oct 2025 – Sep 2026",
+  "orgs": {
+    "meridian": {
+      "color": "879d7b",
+      "position": [
+        0,
+        0,
+        1
+      ]
+    },
+    "meridian_hk": {
+      "color": "c47b8e",
+      "position": [
+        0,
+        0,
+        -11.5
+      ]
+    },
+    "shoreline": {
+      "color": "6f8fc0",
+      "position": [
+        3.1,
+        0,
+        -11.07
+      ]
+    },
+    "bayside_trust": {
+      "color": "a6b95e",
+      "position": [
+        5.98,
+        0,
+        -9.83
+      ]
+    },
+    "stonebridge": {
+      "color": "b0956f",
+      "position": [
+        8.4,
+        0,
+        -7.85
+      ]
+    },
+    "bayview_medical": {
+      "color": "5fb3a8",
+      "position": [
+        10.21,
+        0,
+        -5.29
+      ]
+    },
+    "fitline": {
+      "color": "c4a484",
+      "position": [
+        11.26,
+        0,
+        -2.34
+      ]
+    },
+    "aster": {
+      "color": "9b7fbf",
+      "position": [
+        11.47,
+        0,
+        0.78
+      ]
+    },
+    "greenway": {
+      "color": "cf7f5f",
+      "position": [
+        10.84,
+        0,
+        3.85
+      ]
+    },
+    "westpark_health": {
+      "color": "6fb3d9",
+      "position": [
+        9.4,
+        0,
+        6.63
+      ]
+    },
+    "carespace": {
+      "color": "a3b8c8",
+      "position": [
+        7.26,
+        0,
+        8.92
+      ]
+    },
+    "tidewater": {
+      "color": "b97fb5",
+      "position": [
+        4.58,
+        0,
+        10.55
+      ]
+    },
+    "beanleaf": {
+      "color": "8c7b6b",
+      "position": [
+        1.57,
+        0,
+        11.39
+      ]
+    },
+    "northfield": {
+      "color": "a89f91",
+      "position": [
+        -1.57,
+        0,
+        11.39
+      ]
+    },
+    "craftfit": {
+      "color": "b8876b",
+      "position": [
+        -4.58,
+        0,
+        10.55
+      ]
+    },
+    "crestline": {
+      "color": "be926d",
+      "position": [
+        -7.26,
+        0,
+        8.92
+      ]
+    },
+    "summit": {
+      "color": "789da1",
+      "position": [
+        -9.4,
+        0,
+        6.63
+      ]
+    },
+    "quantocost": {
+      "color": "9aa57a",
+      "position": [
+        -10.84,
+        0,
+        3.85
+      ]
+    },
+    "horizon": {
+      "color": "a98f6a",
+      "position": [
+        -11.47,
+        0,
+        0.78
+      ]
+    },
+    "skinlab": {
+      "color": "99a49f",
+      "position": [
+        -11.26,
+        0,
+        -2.34
+      ]
+    },
+    "axis": {
+      "color": "8f9fb3",
+      "position": [
+        -10.21,
+        0,
+        -5.29
+      ]
+    },
+    "lakeside": {
+      "color": "d1b475",
+      "position": [
+        -8.4,
+        0,
+        -7.85
+      ]
+    },
+    "civic": {
+      "color": "a997bc",
+      "position": [
+        -5.98,
+        0,
+        -9.83
+      ]
+    },
+    "buildright": {
+      "color": "b9826a",
+      "position": [
+        -3.1,
+        0,
+        -11.07
+      ]
+    }
+  },
+  "projects": {
+    "harbour_library": {
+      "short": "Library competition",
+      "short_en": "Library competition",
+      "color": "6f8fc0",
+      "model": "library",
+      "goal": "A two-week ideas competition for a waterfront library: entry in on 24 October; not shortlisted on 5 December.",
+      "goal_en": "A two-week ideas competition for a waterfront library: entry in on 24 October; not shortlisted on 5 December."
+    },
+    "bayside_hall": {
+      "short": "Community hall handover",
+      "short_en": "Community hall handover",
+      "color": "a6b95e",
+      "model": "hall",
+      "goal": "Take over the last months of a community hall under construction: builder's questions, inspections, opening on 12 December, defects fixed.",
+      "goal_en": "Take over the last months of a community hall under construction: builder's questions, inspections, opening on 12 December, defects fixed."
+    },
+    "lakeside": {
+      "short": "School",
+      "short_en": "School",
+      "color": "d1b475",
+      "model": "school",
+      "goal": "The school from design development and building drawings to the permit, choosing the builder and starting on site.",
+      "goal_en": "The school from design development and building drawings to the permit, choosing the builder and starting on site."
+    },
+    "hk_tower": {
+      "short": "Hong Kong tower",
+      "short_en": "Hong Kong tower",
+      "color": "c47b8e",
+      "model": "tower",
+      "goal": "Ten weeks of remote help for the Hong Kong office: flat layouts and the typical floor, handed back on 16 January; Hong Kong carries on.",
+      "goal_en": "Ten weeks of remote help for the Hong Kong office: flat layouts and the typical floor, handed back on 16 January; Hong Kong carries on."
+    },
+    "harbour_clinic": {
+      "short": "Clinic interior",
+      "short_en": "Clinic interior",
+      "color": "5fb3a8",
+      "model": "clinic",
+      "goal": "Turn a floor of an existing building into a family clinic: design, prices, building work, opening on 6 April, defects fixed.",
+      "goal_en": "Turn a floor of an existing building into a family clinic: design, prices, building work, opening on 6 April, defects fixed."
+    },
+    "grand_hotel": {
+      "short": "Hotel competition",
+      "short_en": "Hotel competition",
+      "color": "9b7fbf",
+      "model": "hotel",
+      "goal": "A one-month invited competition for a hotel tower: the tower shape was reversed at the second review; entry in on 13 February; second place.",
+      "goal_en": "A one-month invited competition for a hotel tower: the tower shape was reversed at the second review; entry in on 13 February; second place."
+    },
+    "elm_townhouses": {
+      "short": "Townhouse study",
+      "short_en": "Townhouse study",
+      "color": "cf7f5f",
+      "model": "houses",
+      "goal": "A three-week feasibility study for 24 townhouses: delivered 6 March; the developer chose not to buy the land.",
+      "goal_en": "A three-week feasibility study for 24 townhouses: delivered 6 March; the developer chose not to buy the land."
+    },
+    "northgate": {
+      "short": "Office tower design",
+      "short_en": "Office tower design",
+      "color": "789da1",
+      "model": "tower",
+      "goal": "From the overall design (approved in June) to a detailed design with the structural, services, façade and cost consultants, ready for construction drawings.",
+      "goal_en": "From the overall design (approved in June) to a detailed design with the structural, services, façade and cost consultants, ready for construction drawings."
+    },
+    "westpark_hospital": {
+      "short": "Hospital site plan",
+      "short_en": "Hospital site plan",
+      "color": "6fb3d9",
+      "model": "hospital",
+      "goal": "An overall site plan for a hospital extension: three options, two workshops, a preferred option and report in May; on hold since June when the money was paused.",
+      "goal_en": "An overall site plan for a hospital extension: three options, two workshops, a preferred option and report in May; on hold since June when the money was paused."
+    },
+    "pier_apartments": {
+      "short": "Apartment competition",
+      "short_en": "Apartment competition",
+      "color": "b97fb5",
+      "model": "apartments",
+      "goal": "A two-week invited competition for apartments on a pier: entry in on 15 May; not won on 12 June.",
+      "goal_en": "A two-week invited competition for apartments on a pier: entry in on 15 May; not won on 12 June."
+    },
+    "corner_cafe": {
+      "short": "Café interior",
+      "short_en": "Café interior",
+      "color": "8c7b6b",
+      "model": "cafe",
+      "goal": "A 40-seat café interior in a shopping centre: design, centre approval, choosing the builder and building work; opening planned for 9 October.",
+      "goal_en": "A 40-seat café interior in a shopping centre: design, centre approval, choosing the builder and building work; opening planned for 9 October."
+    },
+    "riverside": {
+      "short": "Mall competition",
+      "short_en": "Mall competition",
+      "color": "be926d",
+      "model": "mall",
+      "goal": "An invited design competition for a riverside mall: brief, site visit, options, submission, shortlist, interview, and the win.",
+      "goal_en": "An invited design competition for a riverside mall: brief, site visit, options, submission, shortlist, interview, and the win."
+    },
+    "studio": {
+      "short": "Studio",
+      "short_en": "Studio",
+      "color": "829b83",
+      "model": "desk",
+      "goal": "Starting the job, studio meetings, reviews, leave, weekly reports and personal notes.",
+      "goal_en": "Starting the job, studio meetings, reviews, leave, weekly reports and personal notes."
+    }
+  },
+  "stages": [
+    "Competition",
+    "Concept design",
+    "Detailed design",
+    "Coordination & cost",
+    "Drawings & versions",
+    "Permits & approvals",
+    "Choosing the builder & building",
+    "Handover & defects",
+    "Helping another office",
+    "Studies & site plans",
+    "Studio",
+    "Outcomes"
+  ],
+  "stages_en": [
+    "Competition",
+    "Concept design",
+    "Detailed design",
+    "Coordination & cost",
+    "Drawings & versions",
+    "Permits & approvals",
+    "Choosing the builder & building",
+    "Handover & defects",
+    "Helping another office",
+    "Studies & site plans",
+    "Studio",
+    "Outcomes"
+  ],
+  "kind_labels": {
+    "email": "Email",
+    "chat": "Chat",
+    "meeting": "Meeting",
+    "document": "File",
+    "task_update": "Task",
+    "journal": "Work note",
+    "weekly_report": "Weekly report",
+    "calendar": "Calendar",
+    "note": "Assistant note"
+  },
+  "status_labels": {
+    "competition": "Competition",
+    "submitted": "Submitted",
+    "jury_review": "Jury reviewing",
+    "shortlisted": "Shortlisted",
+    "interviewed": "Presented to the jury",
+    "won": "Won",
+    "design_development": "Detailed design",
+    "dd50_issued": "Half-way drawings sent",
+    "cost_review": "Checking the cost",
+    "over_budget": "Over budget, finding savings",
+    "client_decisions": "Waiting for client decisions",
+    "rework": "Redoing work on the new drawings",
+    "final_dd": "Finishing the detailed drawings",
+    "dd_issued": "Detailed drawings finished",
+    "cd_preparation": "Getting ready for construction drawings",
+    "construction_drawings": "Drawing the building drawings",
+    "permit_lodged": "Permit applied for",
+    "tendering": "Builders pricing the work",
+    "permit_comments": "Answering council comments",
+    "tender_evaluation": "Comparing builders' prices",
+    "permit_approved": "Permit approved",
+    "builder_appointed": "Builder chosen",
+    "pre_start": "Getting ready to build",
+    "on_site": "Building on site",
+    "finishing": "Finishing construction",
+    "defects_list": "Inspections and the list of defects",
+    "opened": "Open to the public",
+    "fixing_defects": "Fixing defects",
+    "design": "Designing",
+    "design_signed_off": "Design signed off",
+    "pricing": "Builders pricing the work",
+    "building": "Building work under way",
+    "supporting": "Helping the Hong Kong team",
+    "handed_back": "Handed back to Hong Kong",
+    "study": "Study under way",
+    "delivered": "Delivered; waiting for the client",
+    "concept": "Overall design",
+    "concept_submitted": "Overall design sent for approval",
+    "concept_approved": "Overall design approved",
+    "masterplan": "Site plan study",
+    "report_sent": "Report sent",
+    "on_hold": "On hold",
+    "closed": "Closed",
+    "active": "Active",
+    "open": "Open",
+    "in_progress": "In progress",
+    "waiting": "Waiting",
+    "blocked": "Blocked",
+    "completed": "Completed"
+  },
+  "status_labels_en": {
+    "competition": "Competition",
+    "submitted": "Submitted",
+    "jury_review": "Jury reviewing",
+    "shortlisted": "Shortlisted",
+    "interviewed": "Presented to the jury",
+    "won": "Won",
+    "design_development": "Detailed design",
+    "dd50_issued": "Half-way drawings sent",
+    "cost_review": "Checking the cost",
+    "over_budget": "Over budget, finding savings",
+    "client_decisions": "Waiting for client decisions",
+    "rework": "Redoing work on the new drawings",
+    "final_dd": "Finishing the detailed drawings",
+    "dd_issued": "Detailed drawings finished",
+    "cd_preparation": "Getting ready for construction drawings",
+    "construction_drawings": "Drawing the building drawings",
+    "permit_lodged": "Permit applied for",
+    "tendering": "Builders pricing the work",
+    "permit_comments": "Answering council comments",
+    "tender_evaluation": "Comparing builders' prices",
+    "permit_approved": "Permit approved",
+    "builder_appointed": "Builder chosen",
+    "pre_start": "Getting ready to build",
+    "on_site": "Building on site",
+    "finishing": "Finishing construction",
+    "defects_list": "Inspections and the list of defects",
+    "opened": "Open to the public",
+    "fixing_defects": "Fixing defects",
+    "design": "Designing",
+    "design_signed_off": "Design signed off",
+    "pricing": "Builders pricing the work",
+    "building": "Building work under way",
+    "supporting": "Helping the Hong Kong team",
+    "handed_back": "Handed back to Hong Kong",
+    "study": "Study under way",
+    "delivered": "Delivered; waiting for the client",
+    "concept": "Overall design",
+    "concept_submitted": "Overall design sent for approval",
+    "concept_approved": "Overall design approved",
+    "masterplan": "Site plan study",
+    "report_sent": "Report sent",
+    "on_hold": "On hold",
+    "closed": "Closed",
+    "active": "Active",
+    "open": "Open",
+    "in_progress": "In progress",
+    "waiting": "Waiting",
+    "blocked": "Blocked",
+    "completed": "Completed"
+  },
+  "relationship_labels": {
+    "self": {
+      "zh": "Me",
+      "en": "Me"
+    },
+    "manager": {
+      "zh": "Line manager (+1)",
+      "en": "Line manager (+1)"
+    },
+    "skip_manager": {
+      "zh": "Principal (+2)",
+      "en": "Principal (+2)"
+    },
+    "project_lead": {
+      "zh": "Project lead",
+      "en": "Project lead"
+    },
+    "studio_admin": {
+      "zh": "Studio manager",
+      "en": "Studio manager"
+    },
+    "peer": {
+      "zh": "Peer",
+      "en": "Peer"
+    },
+    "junior": {
+      "zh": "Architectural assistant",
+      "en": "Architectural assistant"
+    },
+    "colleague": {
+      "zh": "Colleague",
+      "en": "Colleague"
+    },
+    "partner_office": {
+      "zh": "North Office colleague",
+      "en": "North Office colleague"
+    },
+    "other_office": {
+      "zh": "Hong Kong office colleague",
+      "en": "Hong Kong office colleague"
+    },
+    "client": {
+      "zh": "Client",
+      "en": "Client"
+    },
+    "client_pm": {
+      "zh": "Client project manager",
+      "en": "Client project manager"
+    },
+    "landlord": {
+      "zh": "Shopping centre (landlord)",
+      "en": "Shopping centre (landlord)"
+    },
+    "consultant": {
+      "zh": "Consultant",
+      "en": "Consultant"
+    },
+    "engineer": {
+      "zh": "Engineer",
+      "en": "Engineer"
+    },
+    "authority": {
+      "zh": "Authority",
+      "en": "Authority"
+    },
+    "contractor": {
+      "zh": "Builder",
+      "en": "Builder"
+    },
+    "assistant": {
+      "zh": "AI assistant",
+      "en": "AI assistant"
+    }
+  },
+  "special_days": [
+    {
+      "from": "2025-10-01",
+      "to": "2025-10-03",
+      "label": "First week at the studio",
+      "label_en": "First week at the studio"
+    },
+    {
+      "from": "2025-12-24",
+      "to": "2026-01-02",
+      "label": "Christmas and New Year · studio closed",
+      "label_en": "Christmas and New Year · studio closed"
+    },
+    {
+      "from": "2026-06-19",
+      "to": "2026-06-19",
+      "label": "A day off",
+      "label_en": "A day off"
+    },
+    {
+      "from": "2026-08-24",
+      "to": "2026-08-28",
+      "label": "Annual leave · updates waiting to be read",
+      "label_en": "Annual leave · updates waiting to be read"
+    }
+  ],
+  "month_markers": [
+    {
+      "date": "2025-10-01",
+      "label": "Oct · Start, library competition, community hall",
+      "label_en": "Oct · Start, library competition, community hall"
+    },
+    {
+      "date": "2025-11-01",
+      "label": "Nov · School, clinic, helping Hong Kong",
+      "label_en": "Nov · School, clinic, helping Hong Kong"
+    },
+    {
+      "date": "2025-12-01",
+      "label": "Dec · Community hall opens, school design approved",
+      "label_en": "Dec · Community hall opens, school design approved"
+    },
+    {
+      "date": "2026-01-01",
+      "label": "Jan · Hong Kong handed back, hotel, clinic build",
+      "label_en": "Jan · Hong Kong handed back, hotel, clinic build"
+    },
+    {
+      "date": "2026-02-01",
+      "label": "Feb · Hotel entry in, townhouse study",
+      "label_en": "Feb · Hotel entry in, townhouse study"
+    },
+    {
+      "date": "2026-03-01",
+      "label": "Mar · Office tower concept, hospital plan",
+      "label_en": "Mar · Office tower concept, hospital plan"
+    },
+    {
+      "date": "2026-04-01",
+      "label": "Apr · Clinic opens, six-month review",
+      "label_en": "Apr · Clinic opens, six-month review"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "May · Apartments, café, hospital concept",
+      "label_en": "May · Apartments, café, hospital concept"
+    },
+    {
+      "date": "2026-06-01",
+      "label": "Jun · Hospital on hold, office tower approved",
+      "label_en": "Jun · Hospital on hold, office tower approved"
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Jul · Mall competition, coordination, drawings",
+      "label_en": "Jul · Mall competition, coordination, drawings"
+    },
+    {
+      "date": "2026-08-01",
+      "label": "Aug · Mall entry in, savings, permit, builder",
+      "label_en": "Aug · Mall entry in, savings, permit, builder"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "Sep · Mall won, design done, building starts",
+      "label_en": "Sep · Mall won, design done, building starts"
+    }
+  ],
+  "about": [
+    "This is the fictional first year of architect Grace Zhang at the South Studio of Palm Tree Architects (October 2025 – September 2026): 12 projects plus everyday studio work. Some are finished (two competitions not won, one competition placed second, the community hall and the clinic built and handed over, a townhouse study delivered but the client did not buy the land), one is on hold (the hospital master plan), one was handed back to another office (the Hong Kong apartment tower), and some are still running (the school, the office tower, the café and the newly won shopping centre). All data loads from this computer.",
+    "Drag the timeline and you only see the records Grace had read by that day: when she starts on 1 October she knows only Rose and Dian; everyone else appears as the work brings them in. Anything that arrives while the studio is closed over Christmas and New Year, or while she is on leave, is read on her first working day back. Where people sit is only a stable layout.",
+    "AI assistants (ModelCheck from March, Scribe from April, Atlas on trial from May) appear as authors of records or as someone Grace talks to, and, like people, only when there is evidence of them."
+  ],
+  "about_en": [
+    "This is the fictional first year of architect Grace Zhang at the South Studio of Palm Tree Architects (October 2025 – September 2026): 12 projects plus everyday studio work. Some are finished (two competitions not won, one competition placed second, the community hall and the clinic built and handed over, a townhouse study delivered but the client did not buy the land), one is on hold (the hospital master plan), one was handed back to another office (the Hong Kong apartment tower), and some are still running (the school, the office tower, the café and the newly won shopping centre). All data loads from this computer.",
+    "Drag the timeline and you only see the records Grace had read by that day: when she starts on 1 October she knows only Rose and Dian; everyone else appears as the work brings them in. Anything that arrives while the studio is closed over Christmas and New Year, or while she is on leave, is read on her first working day back. Where people sit is only a stable layout.",
+    "AI assistants (ModelCheck from March, Scribe from April, Atlas on trial from May) appear as authors of records or as someone Grace talks to, and, like people, only when there is evidence of them."
+  ],
+  "offices": [
+    {
+      "id": "south",
+      "label": "South Office",
+      "label_en": "South Office",
+      "city": "Shenzhen",
+      "city_en": "Shenzhen",
+      "organisation_id": "meridian",
+      "office": "south",
+      "center": [
+        0,
+        -4
+      ],
+      "size": [
+        15,
+        13
+      ],
+      "columns": 5,
+      "color": "dce5d4"
+    },
+    {
+      "id": "north",
+      "label": "North Office",
+      "label_en": "North Office",
+      "city": "Shenzhen",
+      "city_en": "Shenzhen",
+      "organisation_id": "meridian",
+      "office": "north",
+      "center": [
+        -12,
+        -5
+      ],
+      "size": [
+        6,
+        7
+      ],
+      "columns": 2,
+      "color": "d4e3e5"
+    },
+    {
+      "id": "hong_kong",
+      "label": "Hong Kong Office",
+      "label_en": "Hong Kong Office",
+      "city": "Hong Kong",
+      "city_en": "Hong Kong",
+      "organisation_id": "meridian_hk",
+      "center": [
+        15.5,
+        -5
+      ],
+      "size": [
+        8,
+        9
+      ],
+      "columns": 2,
+      "color": "e9dce0"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+@import url('./fusion.css');
+/* Dedicated in-page project room: the outer Universe 2 navigation remains visible. */
+body{padding-top:0}
+.fusion .app{grid-template-rows:minmax(0,1fr) 112px}
+.fusion header,.graph-options{display:none}
+.fusion .body{padding-top:12px}
+.fusion .world-head h1{font-size:23px}
+.fusion .world-head p{max-width:410px}
+.fusion .world-head{max-width:440px}
+.fusion .lbl.sky{color:#e3eaf7;font-weight:600;letter-spacing:0}
+.fusion .team-member[aria-current="true"]{background:#ffd08a22;outline:1px solid #ffd08a}
+@media(max-width:860px){.fusion .app{grid-template-rows:auto auto}.fusion .body{padding-top:10px}.fusion main.world{min-height:460px}.fusion .world-head h1{font-size:19px}}
+
+/* Desk in Space: names carry organisation colours; selection is a light pill. */
+.fusion .lbl.person-label{font-size:11px;padding:2px 8px;color:var(--ink);background:var(--panel)}
+.fusion .lbl.person-label.sel{background:var(--ink);color:var(--bg)}
+.fusion .lbl.person-label:hover{box-shadow:0 0 12px #ffffff18}
+.fusion .lbl.me{border-color:var(--sun);color:var(--sun);background:var(--panel);font-size:12px}
+.fusion .lbl.project-label{font-size:12px;font-weight:600;padding:3px 10px;border-radius:999px;background:var(--panel);color:var(--ink);box-shadow:none}
+.fusion .lbl.project-label::before,.fusion .lbl.project-label::after{content:none}
+
+/* Project person status summary: labels stay visible, zero counts do not. */
+.between-us-compact{padding:8px 10px}
+.between-us-compact .ledger{display:flex;gap:6px}
+.between-us-compact .ledger div{flex-direction:row;align-items:center;gap:4px;padding:5px 8px;border-radius:7px;white-space:nowrap}
+.between-us-compact .ledger small{font:500 11px/1.4 var(--f-body);letter-spacing:0;color:var(--muted)}
+.between-us-compact .ledger b{font:600 11px/1.4 var(--f-body);color:var(--ink)}

@@ -1,0 +1,462 @@
+{
+  "status": "agent_review_only",
+  "edits": [
+    {
+      "month": "2025-11",
+      "card": "Lakeside School: Client Reviews and Design Redesign",
+      "section": "grace_contributions",
+      "original_text": "Grace presented the school design at client review 1 and incorporated the client's requests (covered walkway, toilets nearer the playground, 40 bike spaces).",
+      "replacement_text": "Grace presented the school design at client review 1 and recorded the requested covered walkway, relocated toilets and 40 bike spaces as changes planned for review 2.",
+      "reason": "The follow-up email promises future changes; it does not demonstrate they were completed.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2025-11",
+      "card": "Hong Kong Residential Tower: Flat Types and Typical Floor",
+      "section": "grace_contributions",
+      "original_text": "Grace joined the Hong Kong tower team, took on flat types C and D, and collaborated on the typical floor layout with Eric Lam.",
+      "replacement_text": "Grace was assigned flat types C and D and support for Eric on the typical floor during the Hong Kong tower briefing.",
+      "reason": "An assignment is distinguished from demonstrated execution.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2025-12",
+      "card": "Hong Kong residential tower typical floor development",
+      "section": "grace_contributions",
+      "original_text": "Grace adjusted typical floor layouts for deeper balconies on three-bedroom flats and relocated dining tables accordingly.",
+      "replacement_text": "Grace agreed to move the dining table to the window side in response to the balcony discussion.",
+      "reason": "The quoted chat says “I will”; completed relocation is not established by this source.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-01",
+      "card": "Bayside Community Hall Defects Resolution",
+      "section": "grace_contributions",
+      "original_text": "Grace walked the final defects list item by item and signed off on all 50 items once fixed.",
+      "replacement_text": "Grace reported that all 50 defects were fixed and signed off, closing the studio’s work on site.",
+      "reason": "The cited email reports a collective outcome; it does not establish Grace personally inspected and signed every item.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-02",
+      "card": "Harbour Clinic Interior Works & Schedule Adjustments",
+      "section": "grace_contributions",
+      "original_text": "Grace wrote to Anna outlining two choices regarding the late X-ray door and updated dates following the decision to move the opening to 6 April.",
+      "replacement_text": "Grace outlined two options for the delayed X-ray door; after Anna chose a 6 April opening, Grace was asked to update the dates.",
+      "reason": "The meeting instruction is an assigned next step, not proof of completion.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-03",
+      "card": "Westpark Hospital masterplan start-up",
+      "section": "grace_contributions",
+      "original_text": "Grace joined the Westpark Hospital team to work two days a week on the masterplan.",
+      "replacement_text": "Grace was assigned to the Westpark Hospital masterplan from 23 March, with a planned allocation of two days a week.",
+      "reason": "The email establishes a planned allocation, not measured working time.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-04",
+      "card": "Northgate Tower Overall Design Drawings",
+      "section": "grace_contributions",
+      "original_text": "Grace authored the Northgate overall design drawings (version A) including plans, cut-through sections, outside views, and area table.",
+      "replacement_text": "Grace contributed to the shared Northgate overall design drawings (version A); the record lists Grace and Siyi as editors, so the entire package is not attributed to Grace alone.",
+      "reason": "Original document metadata editor_ids includes Siyi; actor_id does not establish sole authorship.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-04",
+      "card": "Lakeside School Half-Way Building Drawings and Check-in",
+      "section": "grace_contributions",
+      "original_text": "Grace produced the half-way set of Lakeside building drawings (52 of 84 drawings) for checking, completing task T-LK-26.",
+      "replacement_text": "Grace sent the half-way Lakeside building drawings to Dian for checking, completing that submission task. The shared set contains 52 of 84 drawings; Grace’s individual drawing count is not established.",
+      "reason": "Task evidence establishes submission; the document has multiple editors and its package count is not a personal production metric.",
+      "reviewer": "Codex evidence review; not human approval",
+      "evidence": [
+        {
+          "source_id": "R-T-LK-26-completed",
+          "field": "body",
+          "quote": "Half-way set of the building drawings sent to Dian."
+        },
+        {
+          "source_id": "R-LK-226",
+          "field": "body",
+          "quote": "52 of 84 drawings for checking: plans, outside views, cut-through drawings (sections), classroom details."
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "card": "Elm Street townhouse study report and conclusion",
+      "section": "methods_and_tools",
+      "original_text": "QuantoCost was used for areas and rough cost in the study report.",
+      "replacement_text": "The study report includes areas and a rough cost credited to the external cost consultant QuantoCost.",
+      "reason": "QuantoCost is the external cost consultant, not a software skill demonstrated by Grace.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-07",
+      "card": "Northgate Tower Detailed Design",
+      "section": "grace_contributions",
+      "original_text": "Set up the drawing list and shared 3D model link for the detailed design stage.",
+      "replacement_text": "Grace completed the drawing list and sent the shared model link to Horizon.",
+      "reason": "The original quote cited creation of an open task. Replace it with the same-month completion evidence.",
+      "reviewer": "Codex evidence review; not human approval",
+      "evidence": [
+        {
+          "source_id": "R-T-NG-01-completed",
+          "field": "body",
+          "quote": "Drawing list v1 and the shared model link sent to Horizon."
+        }
+      ]
+    },
+    {
+      "month": "2026-07",
+      "card": "Lakeside School Construction Drawings and Permit Application",
+      "section": "grace_contributions",
+      "original_text": "Completed the Lakeside building construction drawings (100% set) comprising 84 drawings and the written materials description.",
+      "replacement_text": "Grace reported that the shared Lakeside construction drawing package was complete: 84 drawings and the written materials description. The email does not establish her individual drawing count.",
+      "reason": "Reporting completion of a project package is not personal authorship of every drawing.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-07",
+      "card": "Riverside Mall Design Competition Floor Plans",
+      "section": "grace_contributions",
+      "original_text": "Prepared a one-page brief summary and coordinated team tasks and schedule for the competition.",
+      "replacement_text": "Grace prepared a one-page competition brief summary covering the design requirements, quantities, submission material and key dates.",
+      "reason": "The quoted document establishes the brief summary, but not the claimed coordination of all team tasks.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-08",
+      "card": "Northgate Tower: Cost Check and Savings Options",
+      "section": "grace_contributions",
+      "original_text": "Grace coordinated the Northgate engineering team meetings to address cost check overruns and review design savings options.",
+      "replacement_text": "Grace asked the engineering team to check cost-saving options before 19 August after the estimate came in 6% over budget.",
+      "reason": "Narrow the claim to the recorded action and remove Dian, who was not a cited meeting participant.",
+      "reviewer": "Codex evidence review; not human approval",
+      "person_ids": [
+        "grace",
+        "kai",
+        "li_na",
+        "wei",
+        "jonas"
+      ]
+    },
+    {
+      "month": "2026-08",
+      "card": "Northgate Tower: Cost Check and Savings Options",
+      "section": "grace_contributions",
+      "original_text": "Grace checked all five savings options with the engineers and sent the notes to Ben.",
+      "replacement_text": "Grace completed the savings-option checks with the engineers and sent the notes to Ben.",
+      "reason": "The completion record supports the action. Remove the unsupported option count and use the task owner for structured attribution.",
+      "reviewer": "Codex evidence review; not human approval",
+      "person_ids": [
+        "grace"
+      ]
+    },
+    {
+      "month": "2026-08",
+      "card": "Northgate Tower: Cost Check and Savings Options",
+      "section": "guidance_and_collaboration",
+      "original_text": "Kai issued version D of the detailed drawings during Grace's leave.",
+      "replacement_text": "Kai completed the version D drawing issue task; the completion record identifies send-out list TX-0218.",
+      "reason": "Keep the task-owner attribution and remove the unsupported extra participant.",
+      "reviewer": "Codex evidence review; not human approval",
+      "person_ids": [
+        "kai"
+      ]
+    },
+    {
+      "month": "2026-08",
+      "card": "Riverside Mall: Competition Submission",
+      "section": "grace_contributions",
+      "original_text": "Grace uploaded and submitted the final Riverside Mall competition submission to Meridian.",
+      "replacement_text": "Grace confirmed that the Riverside competition submission was uploaded and the printed copies delivered to the recipient’s reception.",
+      "reason": "Meridian was the submitting firm, not the recipient.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-08",
+      "card": "Corner Café: Interior Fit-out Adjustments",
+      "section": "guidance_and_collaboration",
+      "original_text": "Lucy covered the café site during Grace's leave week.",
+      "replacement_text": "Lucy offered to cover the café site during Grace’s leave week and said Dave had her number.",
+      "reason": "The chat records an offer, not proof the cover had already happened.",
+      "reviewer": "Codex evidence review; not human approval",
+      "person_ids": [
+        "grace",
+        "lucy"
+      ]
+    },
+    {
+      "month": "2026-08",
+      "card": "Studio Template and Leave Handover",
+      "section": "grace_contributions",
+      "original_text": "Grace prepared a comprehensive one-page leave handover for Kai covering Northgate, Lakeside, and Riverside projects.",
+      "replacement_text": "Grace prepared the leave handover covering Northgate, Lakeside and Riverside, and walked through it with Kai.",
+      "reason": "Restore exact source text and retain the explicit handover-completion evidence.",
+      "reviewer": "Codex evidence review; not human approval",
+      "person_ids": [
+        "grace",
+        "kai",
+        "dian"
+      ],
+      "evidence": [
+        {
+          "source_id": "R-ST-013",
+          "field": "body",
+          "quote": "Northgate\n- The updated drawings (version D) on Friday 28th: send to Li Na (structure) AND Wei (services), plus Jonas and Rachel. Use the ModelCheck register.\n- SkinLab façade price is due 21st; chase if late.\nLakeside\n- Builders' prices due Friday 14:00 on the portal: log all four, open with Dian.\n- Council is reviewing our permit response.\nRiverside\n- With the jury. If Claire asks anything, Dian answers."
+        },
+        {
+          "source_id": "R-T-ST-03-completed",
+          "field": "body",
+          "quote": "Handover written and walked through with Kai."
+        }
+      ]
+    },
+    {
+      "month": "2026-08",
+      "card": "Studio Template and Leave Handover",
+      "section": "guidance_and_collaboration",
+      "original_text": "Kai reviewed the leave handover with Grace and covered projects during her absence.",
+      "replacement_text": "Kai reviewed the leave handover with Grace and agreed to issue version D to the engineers and log the Lakeside prices for opening with Dian.",
+      "reason": "The meeting records agreed cover actions, not proof all were already completed.",
+      "reviewer": "Codex evidence review; not human approval",
+      "person_ids": [
+        "grace",
+        "kai"
+      ],
+      "evidence": [
+        {
+          "source_id": "R-ST-014",
+          "field": "body",
+          "quote": "Meeting notes\nAttendees: Grace Zhang, Kai Tanaka\n\nGrace Zhang: One page. The main thing: the updated drawings (version D) goes to Li Na and Wei both, plus Jonas and Rachel.\n\nKai Tanaka: Got it. And the Lakeside builders' prices I just log and open with Dian.\n\nGrace Zhang: Yes. Phone off, but Dian knows how to reach me if the building falls down.\n\nMinutes\n- Version D to all engineers (Kai).\n- Lakeside builders' prices logged and opened with Dian (Kai)."
+        }
+      ]
+    },
+    {
+      "month": "2026-09",
+      "card": "Northgate Tower: Drawing Version Reconciliation, Lobby Adjustment, and Finished Detailed Drawings",
+      "section": "grace_contributions",
+      "original_text": "Grace coordinated a second opinion from Daniel Osei regarding the client's request to raise the lobby height from 8 m to 11 m.",
+      "replacement_text": "Grace requested a structural second opinion from Daniel Osei on the client’s proposal to raise the lobby from 8 m to 12 m.",
+      "reason": "The request was 12 m; 11 m was the later recommendation. Keep requested and recommended dimensions distinct.",
+      "reviewer": "Codex evidence review; not human approval"
+    },
+    {
+      "month": "2026-09",
+      "card": "Lakeside: Builder Selection, Permit, and Construction Start",
+      "section": "grace_contributions",
+      "original_text": "Grace attended the pre-start meeting and the start on site with Robert.",
+      "replacement_text": "Grace reported that she visited the construction start at 11:00 with Robert and saved the site photographs.",
+      "reason": "Remove attendance inferred from the calendar and the uncited pre-start meeting; use the explicit visit report. Structured attribution uses the reporting author; Robert is named in the quoted visit report but not the source participant metadata.",
+      "reviewer": "Codex evidence review; not human approval",
+      "person_ids": [
+        "grace"
+      ],
+      "evidence": [
+        {
+          "source_id": "R-LK-077",
+          "field": "body",
+          "quote": "Great to see it start. I was there at 11 with Robert; photos are in Lakeside/09_Construction/Photos."
+        }
+      ]
+    },
+    {
+      "month": "2026-09",
+      "card": "Corner Café: Site Visits and Shop Front Inspection",
+      "section": "grace_contributions",
+      "original_text": "Grace confirmed the opening schedule contingent on the centre's shop front inspection.",
+      "replacement_text": "Grace told Joe that the planned 9 October opening depended on the centre passing the shop-front inspection on 30 September.",
+      "reason": "Retain the conditional plan and remove Kelly, who was not a participant in the cited meeting.",
+      "reviewer": "Codex evidence review; not human approval",
+      "person_ids": [
+        "grace",
+        "joe"
+      ],
+      "evidence": [
+        {
+          "source_id": "R-CC-033",
+          "field": "body",
+          "quote": "Joe Martin: The coffee machine comes on 5 October. Opening on the 9th still?\n\nGrace Zhang: Yes, if the centre passes the shop front on the 30th."
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "card": "Bayside Hall: Site Work Handover and Builder's Questions",
+      "section": "grace_contributions",
+      "original_text": "Grace took over site work on Bayside Hall from Ryan Cole.",
+      "replacement_text": "Grace took over Bayside Hall site coordination on 6 October following the handover from Ryan Cole.",
+      "reason": "Review against complete source: distinguish planned/actual work and instructions/physical completion; cite direct evidence for every attribution.",
+      "evidence": [
+        {
+          "source_id": "R-BH-002",
+          "field": "body",
+          "quote": "Meeting notes\nAttendees: Grace Zhang, Ryan Cole, Laura Webster\n\nRyan Cole: Roof is on, walls are done, ceilings start this month. Six builder's questions are open; three need you this week.\n\nRyan Cole: Paul, the client, is precise and kind. Nick runs the site for Stonebridge; he answers fast but promises fast too.\n\nGrace Zhang: Where is the log of builder's questions and the drawing register?\n\nRyan Cole: Bayside/05_Construction. My handover note is in Bayside/00_Admin.\n\nLaura Webster: The opening on 12 December cannot move. Everything else can.\n\nMinutes\n- Grace takes over site work from today.\n- Three builder's questions need an answer this week.\n- Opening 12 Dec is fixed."
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "card": "Bayside Hall: Site Work Handover and Builder's Questions",
+      "section": "grace_contributions",
+      "original_text": "Grace answered builder's questions 14 to 16 in writing.",
+      "replacement_text": "Grace answered builder's questions 14 to 16 in writing and updated the question log.",
+      "reason": "Review against complete source: distinguish planned/actual work and instructions/physical completion; cite direct evidence for every attribution.",
+      "evidence": [
+        {
+          "source_id": "R-BH-008",
+          "field": "body",
+          "quote": "Hi Nick,\n\nAnswers to builder's questions 14 to 16:\n14. Hall floor: light timber, as on the sample board.\n15. Kitchen bench: 850 mm, for the older volunteers Paul mentioned.\n16. Ramp: handrails on both sides.\nThe log of builder's questions in Bayside/05_Construction is updated.\n\nGrace"
+        }
+      ],
+      "person_ids": [
+        "grace",
+        "nick"
+      ]
+    },
+    {
+      "month": "2025-10",
+      "card": "Bayside Hall: Site Work Handover and Builder's Questions",
+      "section": "grace_contributions",
+      "original_text": "Grace resolved a clash between a kitchen fan hood and a ceiling light.",
+      "replacement_text": "Grace instructed the builder to move the ceiling light 400 mm towards the window to clear the kitchen fan hood; this record does not confirm installation.",
+      "reason": "Review against complete source: distinguish planned/actual work and instructions/physical completion; cite direct evidence for every attribution.",
+      "evidence": [
+        {
+          "source_id": "R-BH-011",
+          "field": "body",
+          "quote": "Hi Nick,\n\nMove the light 400 mm towards the window; the hood stays above the cooktop.\n\nGrace"
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "card": "Bayside Hall: Site Work Handover and Builder's Questions",
+      "section": "guidance_and_collaboration",
+      "original_text": "Laura Webster acted as project lead and participated in site meetings alongside Grace, Nick Harris, and Paul Young.",
+      "replacement_text": "Laura Webster remained project lead and attended the site meeting with Grace, Nick Harris and Paul Young.",
+      "reason": "Review against complete source: distinguish planned/actual work and instructions/physical completion; cite direct evidence for every attribution.",
+      "evidence": [
+        {
+          "source_id": "R-BH-001",
+          "field": "body",
+          "quote": "Hi Grace,\n\nWelcome! From Monday you take over the site work on Bayside Hall, a community hall being finished for the Bayside Community Trust. It opens on 12 December, announced to the whole neighbourhood. Ryan is moving to other work and will hand over on Monday afternoon. Site meeting every Wednesday at 10:00 with the builder, Stonebridge. I stay as project lead.\n\nLaura"
+        },
+        {
+          "source_id": "R-BH-006",
+          "field": "body",
+          "quote": "Meeting notes\nAttendees: Grace Zhang, Nick Harris, Laura Webster, Paul Young\n\nNick Harris: Ceilings start Monday. Hall floor timber needs ordering this week.\n\nPaul Young: Welcome, Grace. The opening on 12 December is on every noticeboard in Bayside. It cannot move.\n\nGrace Zhang: Understood. Answers to questions 14 to 16 by Friday.\n\nLaura Webster: Opening date stays. If anything threatens it, we hear it here first.\n\nMinutes\n- Opening 12 Dec confirmed (Paul).\n- Answers to builder's questions 14–16 by Friday (Grace).\n- Ceilings from 13 Oct."
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "card": "Bayside Hall: Site Work Handover and Builder's Questions",
+      "section": "independence_basis",
+      "original_text": "Grace took over work from Ryan Cole and operated under project lead Laura Webster.",
+      "replacement_text": "Grace took over coordination from Ryan Cole while Laura Webster remained project lead.",
+      "reason": "Review against complete source: distinguish planned/actual work and instructions/physical completion; cite direct evidence for every attribution.",
+      "evidence": [
+        {
+          "source_id": "R-BH-002",
+          "field": "body",
+          "quote": "Meeting notes\nAttendees: Grace Zhang, Ryan Cole, Laura Webster\n\nRyan Cole: Roof is on, walls are done, ceilings start this month. Six builder's questions are open; three need you this week.\n\nRyan Cole: Paul, the client, is precise and kind. Nick runs the site for Stonebridge; he answers fast but promises fast too.\n\nGrace Zhang: Where is the log of builder's questions and the drawing register?\n\nRyan Cole: Bayside/05_Construction. My handover note is in Bayside/00_Admin.\n\nLaura Webster: The opening on 12 December cannot move. Everything else can.\n\nMinutes\n- Grace takes over site work from today.\n- Three builder's questions need an answer this week.\n- Opening 12 Dec is fixed."
+        },
+        {
+          "source_id": "R-BH-001",
+          "field": "body",
+          "quote": "Hi Grace,\n\nWelcome! From Monday you take over the site work on Bayside Hall, a community hall being finished for the Bayside Community Trust. It opens on 12 December, announced to the whole neighbourhood. Ryan is moving to other work and will hand over on Monday afternoon. Site meeting every Wednesday at 10:00 with the builder, Stonebridge. I stay as project lead.\n\nLaura"
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "card": "Shoreline Waterfront Library Ideas Competition",
+      "section": "grace_contributions",
+      "original_text": "Grace developed draft competition boards showing the concept, plans, section, and lookout.",
+      "replacement_text": "Grace prepared draft competition boards covering the concept, plans, section, lookout and children’s library.",
+      "reason": "Review against complete source: distinguish planned/actual work and instructions/physical completion; cite direct evidence for every attribution.",
+      "evidence": [
+        {
+          "source_id": "R-HL-013",
+          "field": "body",
+          "quote": "Draft of the three boards\n1. The idea: a long reading room along the water's edge, a public square on the landing.\n2. Plans of the two floors and a cut-through drawing (a section).\n3. The lookout and the children's library."
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "card": "Shoreline Waterfront Library Ideas Competition",
+      "section": "grace_contributions",
+      "original_text": "Grace delivered and uploaded the final entry SL-27 consisting of three A1 boards.",
+      "replacement_text": "Grace confirmed upload and delivery of entry SL-27, a team submission comprising three A1 boards.",
+      "reason": "Review against complete source: distinguish planned/actual work and instructions/physical completion; cite direct evidence for every attribution.",
+      "evidence": [
+        {
+          "source_id": "R-HL-016",
+          "field": "body",
+          "quote": "Entry SL-27: three A1 boards.\nIdea: a long reading room along the water's edge; the old landing becomes a public square; one lookout over the water.\n4,020 m²."
+        },
+        {
+          "source_id": "R-HL-017",
+          "field": "body",
+          "quote": "Dear Megan,\n\nEntry SL-27 has been uploaded and the printed boards are at your reception. Thank you.\n\nGrace"
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "card": "Shoreline Waterfront Library Ideas Competition",
+      "section": "guidance_and_collaboration",
+      "original_text": "James Porter led the competition team and Lucy Hughes provided area tables and site models.",
+      "replacement_text": "Grace worked with James Porter and Lucy Hughes. Lucy prepared the area table and site model, then revised the site plan and model following the design review.",
+      "reason": "Review against complete source: distinguish planned/actual work and instructions/physical completion; cite direct evidence for every attribution.",
+      "evidence": [
+        {
+          "source_id": "R-HL-001",
+          "field": "body",
+          "quote": "Hi Grace,\n\nDian says you have room for two weeks. From Monday we enter an open ideas competition for a waterfront public library: three large display boards, no fee, results in late November. Team: me, you and Lucy. Brief comes on Monday morning.\n\nJames"
+        },
+        {
+          "source_id": "R-HL-009",
+          "field": "body",
+          "quote": "Area table is ready: 4,020 m² for idea A. HarbourLibrary/02_Areas."
+        },
+        {
+          "source_id": "R-T-HL-02-completed",
+          "field": "body",
+          "quote": "Area table from the brief and a site model with the old ferry landing.\n\nTask T-HL-02 is complete. This closes only the action named above; it does not imply acceptance of other work."
+        },
+        {
+          "source_id": "R-HL-012",
+          "field": "body",
+          "quote": "Lucy, Pai wants the building back on the landing. Could you redo the site plan and the model by Wednesday?"
+        },
+        {
+          "source_id": "R-T-HL-03-completed",
+          "field": "body",
+          "quote": "Site plan and model redone.\n\nTask T-HL-03 is complete. This closes only the action named above; it does not imply acceptance of other work."
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "card": "Lakeside School Detailed Design",
+      "section": "guidance_and_collaboration",
+      "original_text": "Dian Feng managed Grace as project architect on Lakeside School.",
+      "replacement_text": "Dian assigned Grace as project architect working with him on the development of the previously approved concept.",
+      "reason": "Review against complete source: distinguish planned/actual work and instructions/physical completion; cite direct evidence for every attribution.",
+      "evidence": [
+        {
+          "source_id": "R-LK-201",
+          "field": "body",
+          "quote": "From Wednesday you are project architect on Lakeside School with me: a two-storey primary school for the Lakeside Education Foundation, opening September 2027. The concept was approved in September; now we develop it: classrooms, the hall, materials, structure. Robert Chen is the client; Daniel Osei at Axis does the structure; Siyi helps."
+        }
+      ]
+    }
+  ]
+}

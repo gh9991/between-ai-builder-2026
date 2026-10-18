@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "months": 12,
+  "records": 1337,
+  "cards": 56,
+  "claims": 310,
+  "quotes": 379,
+  "semantic_review": "still_required",
+  "withheld_items": 27,
+  "restored_quotes": 22,
+  "agent_corrections": 31,
+  "checks": [
+    "All 1337 records assigned once by first_seen_at in UTC+8",
+    "All 12 months processed",
+    "Every retained quotation matches the pinned original archive exactly",
+    "All retained person/project references satisfy conservative metadata checks",
+    "Model input field whitelist and archive hash checked",
+    "Previous 11 verified months are byte-equivalent as parsed JSON"
+  ]
+}

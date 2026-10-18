@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Between · Project Space</title>
+<link rel="stylesheet" href="universe2-project-space.css?v=20261018-project-status">
+
+</head>
+<body class="fusion" data-lang="en">
+<div class="app" id="app">
+  <header>
+    <div class="brand"><i>b.</i>between</div>
+    <div class="fusion-brand"><span>Fusion Universe</span><small>Closeness × Space desk</small></div>
+
+    <nav class="views" aria-label="View"><button id="dvDesk">My Desk</button><button id="dvNet" class="on">Whole universe</button></nav>
+    <div class="hdr-right"><button class="chip" id="overviewButton" aria-expanded="false">Work overview</button><span class="chip" id="scnChip">Archive</span><button class="chip" id="searchButton">⌕ Find a person</button></div>
+  </header>
+  <div class="body">
+    <aside class="left">
+      <div class="me"><div class="av">—</div><div><b id="meName">Reading the archive</b><span id="meRole"></span></div></div>
+      <div><div class="lbl-s"><span>My work world</span><span id="periodLbl"></span></div><div class="stats"><div><b id="sPeople">0</b><span>contacts</span></div><div><b id="sProj">0</b><span>projects</span></div><div><b id="sAI">0</b><span>AI</span></div></div></div>
+      <div class="focus"><small>Focus that day</small><b>—</b><span class="meta"></span></div>
+      <div><div class="lbl-s"><span>Projects</span><span>Click to fly there</span></div><div class="proj" id="projList"></div></div>
+      <div><div class="lbl-s"><span>How to read the project space</span></div><div class="legend" id="legend"></div></div>
+    </aside>
+    <main class="world">
+      <canvas id="sky" tabindex="0" aria-label="Project team: people inside the organisation on the left, outside people on the right; click a person to see shared work"></canvas>
+      <div id="labels"></div>
+      <div class="world-head"><div class="k" id="wKey"></div><h1 id="wTitle"></h1><p id="wMeta"></p></div>
+      <div class="graph-options"><button id="showLinks" aria-pressed="true">Links</button><button id="showNames" aria-pressed="false">All names</button></div>
+      <div class="tools"><button id="tHome" aria-label="Back to the project sky" title="Back to the project sky" hidden>⌂</button><button id="tReset" aria-label="Reset view" title="Reset view">⌖</button><button id="tIn" aria-label="Zoom in">+</button><output id="zoomLevel" aria-label="Zoom level">100%</output><button id="tOut" aria-label="Zoom out">−</button></div>
+
+      <div class="hint">Drag empty space to rotate · scroll to zoom · click a person to see their work on this project</div>
+      <div class="toast" id="toast"></div>
+    </main>
+    <aside class="card" id="card" aria-live="polite"></aside>
+  </div>
+  <footer class="time">
+    <div class="t-row"><span class="t-date" id="tDate">2026-09-30</span><span class="t-scope" id="tScope" hidden></span><span class="t-sum" id="tSum"></span><div class="t-actions"><button id="allWork" hidden>← All work</button><label class="history-toggle" title="Keep every person and project known by the selected date, including finished, paused and handed-back projects"><input type="checkbox" id="fullHistory">Show all history</label><button class="play" id="play">▶ Replay: watch the world grow</button></div></div>
+    <input id="historyDay" type="range" min="1" aria-label="Date in the work history" style="width:100%;accent-color:var(--sun)"><div class="bars" id="bars"></div>
+    <div class="months" id="monthsRow"></div>
+  </footer>
+</div>
+
+<dialog id="peopleDialog"><div class="search-head"><h2>Find a person in the universe</h2><button id="closeSearch" aria-label="Close people search">×</button></div><input id="peopleSearch" type="search" placeholder="Name, role or organisation" aria-label="Search by name, role or organisation"><div id="peopleResults"></div></dialog>
+<script type="module" src="universe2-project-space.js?v=20261018-project-heading"></script>
+</body></html>

@@ -1,0 +1,1372 @@
+{
+  "version": 1,
+  "provenance": "Codex editorial synthesis of retained Gemini candidate cards; not a new extraction or human approval.",
+  "review_status": "pending_semantic_review",
+  "overview": [
+    {
+      "project_id": "lakeside",
+      "title": {
+        "en": "School design through construction coordination"
+      },
+      "text": {
+        "en": "Produced the first classroom layout, then carried revisions through interim drawing submission, permit application, builder recommendation and early site queries. Dian guided design and programme, Siyi contributed schedules and Daniel supplied structural advice. The 84-sheet package is a team output."
+      },
+      "references": [
+        {
+          "month": "2025-10",
+          "card_title": "Lakeside School Detailed Design",
+          "card_sha256": "9e37aea02ae5fe0869509ba8dc8a7f8cfcacdef722c78ecfd888364dd886f629"
+        },
+        {
+          "month": "2025-11",
+          "card_title": "Lakeside School: Client Reviews and Design Redesign",
+          "card_sha256": "481418675071efbc1f0a0bfbd504b2db77d8e379454aebcadeba237bc6ef9a42"
+        },
+        {
+          "month": "2025-12",
+          "card_title": "Lakeside School layout revision and design sign-off",
+          "card_sha256": "5683b477d0f1634febfe6cab15796096b1bb940685d89af7e5c9def07ccc60d1"
+        },
+        {
+          "month": "2026-01",
+          "card_title": "Lakeside School Cost Check and Roof Value Engineering",
+          "card_sha256": "26c30949c91c7010161cbded3a1f8ba136ebdc04c3636c18a69500755112aa64"
+        },
+        {
+          "month": "2026-02",
+          "card_title": "Lakeside School Building Drawings Kickoff",
+          "card_sha256": "b9a57bcea422acd1f2e3b557d282e20ffa4a8d23b52719cf077ba299728aa272"
+        },
+        {
+          "month": "2026-04",
+          "card_title": "Lakeside School Half-Way Building Drawings and Check-in",
+          "card_sha256": "fa5dab9a9e07ae5546dbd79e84f24a5725181e76cddc5b3a7cde5c870f81e437"
+        },
+        {
+          "month": "2026-05",
+          "card_title": "Lakeside School: Design Review and Coordination",
+          "card_sha256": "db9c63339b6151d8df933f920e152ad51978ee9f24957253d0f471509eaccf49"
+        },
+        {
+          "month": "2026-06",
+          "card_title": "Lakeside School — Foundation Coordination and Permit Planning",
+          "card_sha256": "cb6c842670b85006476bd938186f70e0713c50ee67b780ae6707dd163d6ad52d"
+        },
+        {
+          "month": "2026-07",
+          "card_title": "Lakeside School Construction Drawings and Permit Application",
+          "card_sha256": "57fe24e3e68e33ab43c2cfd0af45d83905f3950616b2e2c50c541d2e90b848b9"
+        },
+        {
+          "month": "2026-08",
+          "card_title": "Lakeside Primary School: Tender and Permit Responses",
+          "card_sha256": "69ff3fc3f8f1452ec02fe8810182420811d73d7b1a5356d126f0c9c1d473264f"
+        },
+        {
+          "month": "2026-09",
+          "card_title": "Lakeside: Builder Selection, Permit, and Construction Start",
+          "card_sha256": "5eb83358ce8c9b4c6676322424cee0d1a35c79a449040d86057839437d3325e4"
+        }
+      ]
+    },
+    {
+      "project_id": "northgate",
+      "title": {
+        "en": "Office tower concept and detailed design"
+      },
+      "text": {
+        "en": "Produced three form options, addressed client comments and wrote the design report, then coordinated detailed drawings, cost savings and version issues. Pai selected the concept direction; Siyi, Kai and consultants contributed drawings, checks and technical work."
+      },
+      "references": [
+        {
+          "month": "2026-03",
+          "card_title": "Northgate Tower overall design and shape selection",
+          "card_sha256": "8d0a6c93a00175a5016f2ca120dd1755d61922c04e80be562fd803b9a06da1d0"
+        },
+        {
+          "month": "2026-04",
+          "card_title": "Northgate Tower Overall Design Drawings",
+          "card_sha256": "f55d07d86e564f87ad081c6c2fa0d4ff1d63122599b6d94b68c0f2a4ceaa7210"
+        },
+        {
+          "month": "2026-05",
+          "card_title": "Northgate Tower: Early Cost Estimation Request and Approval Report",
+          "card_sha256": "0c2bd9f48afddc34cbddca7c01a2093b049d765bb511aefdd2810fcdb5363d05"
+        },
+        {
+          "month": "2026-06",
+          "card_title": "Northgate Tower — Overall Design Approval and Detailed Design Planning",
+          "card_sha256": "c05136e0b1821801b0cf396d698014bfb0f170ca640830d001e50ce97ab0b4e1"
+        },
+        {
+          "month": "2026-07",
+          "card_title": "Northgate Tower Detailed Design",
+          "card_sha256": "8c625f4329650fa49251671738726f83dffd8b4b0089e6912aaaf6bc0b214bc0"
+        },
+        {
+          "month": "2026-08",
+          "card_title": "Northgate Tower: Cost Check and Savings Options",
+          "card_sha256": "62c8013b7c69ee9d58ee5aa3d01d4915924991fcaaba507d97f33bd8b00c5609"
+        },
+        {
+          "month": "2026-09",
+          "card_title": "Northgate Tower: Drawing Version Reconciliation, Lobby Adjustment, and Finished Detailed Drawings",
+          "card_sha256": "94c038f417f7a3dbfca631563c87e36baf21b00f686859db3c35f824e5d24b03"
+        }
+      ]
+    },
+    {
+      "project_id": "riverside",
+      "title": {
+        "en": "Mall competition plans, submission and jury presentation"
+      },
+      "text": {
+        "en": "Drew three plan options and progressed revisions, submission and jury presentation, then drafted feedback responses after the team’s win. Dian and Pai guided design; Davin supplied visuals and walkthroughs, while Siyi handled templates and areas."
+      },
+      "references": [
+        {
+          "month": "2026-07",
+          "card_title": "Riverside Mall Design Competition Floor Plans",
+          "card_sha256": "1769618a52fce56bcbb68f86b74702772dc4ebbf23f48510eaefb8438a658625"
+        },
+        {
+          "month": "2026-08",
+          "card_title": "Riverside Mall: Competition Submission",
+          "card_sha256": "05ed483aa7d9aec094b18e4cacce49828729b78dd5ccd26f82e08d0a77329c9b"
+        },
+        {
+          "month": "2026-09",
+          "card_title": "Riverside Mall: Competition Shortlist, Interview Preparation, and Winning Submission",
+          "card_sha256": "bf2808e2e6366df083f79b658cbdedb21dfc5362417531f8e745d42ba14ed53f"
+        }
+      ]
+    },
+    {
+      "project_id": "harbour_clinic",
+      "title": {
+        "en": "Clinic layouts, site coordination and defect close-out"
+      },
+      "text": {
+        "en": "Completed two initial layouts, revisions and pricing drawings; addressed duct routing and equipment delay, followed inspections and signed off defects. Laura guided design, Sophie provided finishes samples and the construction team performed repairs."
+      },
+      "references": [
+        {
+          "month": "2025-11",
+          "card_title": "Harbour Clinic: Initial Brief and Layout Options A and B",
+          "card_sha256": "4f90febdbc3791ca4bc3d28b11bea337e50801b1482c1d4216943b9d8f17daee"
+        },
+        {
+          "month": "2025-11",
+          "card_title": "Harbour Clinic: X-Ray Room Requirements and Internal Review",
+          "card_sha256": "8513ffd67ecd61ecaa9303c3ca1c56ac74b6ce09444a3a361aa7804f85a831fc"
+        },
+        {
+          "month": "2025-12",
+          "card_title": "Harbour Family Clinic interior design, layout revisions and pricing set",
+          "card_sha256": "7688453950e2587d23ae54a43e525a0c6184bf187272617707ecc662ef700419"
+        },
+        {
+          "month": "2026-01",
+          "card_title": "Harbour Family Clinic Builder Selection and Coordination",
+          "card_sha256": "5c4eb202b26c0c08ef37aff517a541f9fb6bd0b86316737683640758c3804e62"
+        },
+        {
+          "month": "2026-02",
+          "card_title": "Harbour Clinic Interior Works & Schedule Adjustments",
+          "card_sha256": "a8c22ba1002e4d02344e16461055c7298385bb18464eb4505d664a5d4e0a87f3"
+        },
+        {
+          "month": "2026-03",
+          "card_title": "Harbour Family Clinic interior finishing and inspection",
+          "card_sha256": "139f445eb043d326ad615224b5a5e97ec03e48b0e60c1bdcbb930caec2c65faa"
+        },
+        {
+          "month": "2026-04",
+          "card_title": "Harbour Family Clinic Opening and Defect Resolution",
+          "card_sha256": "7bb90744827ab9bc16b7e9c2187323425e9c8e2d86a72b9d882f46869b080fca"
+        },
+        {
+          "month": "2026-05",
+          "card_title": "Harbour Family Clinic: Defects Sign-Off and Project Completion",
+          "card_sha256": "8224ae758dc603aa360fb87c9bed82cce307f033ed4847f075dbcc4c65e91f23"
+        }
+      ]
+    },
+    {
+      "project_id": "corner_cafe",
+      "title": {
+        "en": "Café design, approvals and site changes"
+      },
+      "text": {
+        "en": "Developed the layout from owner requirements and centre rules, addressed approval comments, joined builder selection and followed counter changes and shopfront inspection. Lucy handled measurement and some services work, Dave built the work and Kelly handled approvals and inspection."
+      },
+      "references": [
+        {
+          "month": "2026-05",
+          "card_title": "Corner Café: Project Initiation, Owner Meeting, and Centre Rules Coordination",
+          "card_sha256": "f919544f2c55b2c2d997880a2b4cee11194dc47802412afe75d83a1878fe0364"
+        },
+        {
+          "month": "2026-06",
+          "card_title": "Corner Café Interior Design, Centre Approval, and Pricing",
+          "card_sha256": "80dba786fc5b422ea78b7d561c2379d68131faf1637cf0eab62406b536242dcb"
+        },
+        {
+          "month": "2026-07",
+          "card_title": "Corner Café Builder Appointment",
+          "card_sha256": "d97dcebb28e460460f3b722736f8ecc84608f7ad21c4ac8650464fedca4dc8e1"
+        },
+        {
+          "month": "2026-08",
+          "card_title": "Corner Café: Interior Fit-out Adjustments",
+          "card_sha256": "9f7b399224376cd0babf75777fc3a911114d66da65652ff416e349ecfefbe0e7"
+        },
+        {
+          "month": "2026-09",
+          "card_title": "Corner Café: Site Visits and Shop Front Inspection",
+          "card_sha256": "b34e3851cf434b07be59dcb55c25c5c3cee9f64e9ccdb5c5789d905e7990603a"
+        }
+      ]
+    },
+    {
+      "project_id": "studio",
+      "title": {
+        "en": "Team contributions and work handover"
+      },
+      "text": {
+        "en": "Completed the six-month self-review, released studio templates and prepared leave handover for three projects. Siyi did most template production; Kai took on drawing issues and pricing follow-up in the handover."
+      },
+      "references": [
+        {
+          "month": "2026-04",
+          "card_title": "Studio Operations, Probation Confirmation, and Self-Review",
+          "card_sha256": "a342f65d73a67f2a3a20ad8e43bfd06340d80600e231d8aebabaa486e5a6e9f7"
+        },
+        {
+          "month": "2026-08",
+          "card_title": "Studio Template and Leave Handover",
+          "card_sha256": "7c513a71b8c070bb148ce18f7b1e2f719d547bcc43e61cff3d2b744fef84f22a"
+        }
+      ]
+    },
+    {
+      "project_id": "hk_tower",
+      "title": {
+        "en": "Hong Kong apartment layouts and handover"
+      },
+      "text": {
+        "en": "Worked on flat types C and D and the typical floor, implemented client and Hong Kong-team feedback, and handed over final layouts and open issues. Peter, Karen and Eric contributed briefing, review and coordination."
+      },
+      "references": [
+        {
+          "month": "2025-11",
+          "card_title": "Hong Kong Residential Tower: Flat Types and Typical Floor",
+          "card_sha256": "19809a2bfce29f793ee06abcceb3700e12269f66e688b1174b177490889374e1"
+        },
+        {
+          "month": "2025-12",
+          "card_title": "Hong Kong residential tower typical floor development",
+          "card_sha256": "2269410fd4245020e61344a197debeb97f57774b1c47bfd82e1bff6d1b97d257"
+        },
+        {
+          "month": "2026-01",
+          "card_title": "Hong Kong Tower Typical Floor Changes and Hand-Back",
+          "card_sha256": "62a51187852147b7d0a86ece471285dd4d438d8ee1c004ebd5b544cffe161dfa"
+        }
+      ]
+    },
+    {
+      "project_id": "westpark_hospital",
+      "title": {
+        "en": "Hospital extension options and draft report"
+      },
+      "text": {
+        "en": "Completed three extension options and a draft masterplan report, coordinating costs and services requirements. Pai, Linda and Simon contributed direction, selection and review. The project later paused for funding reasons and Grace organised the on-hold files."
+      },
+      "references": [
+        {
+          "month": "2026-03",
+          "card_title": "Westpark Hospital masterplan start-up",
+          "card_sha256": "3181412225f168f82be0bd88a76af7893b291085de2aa59091d3dae354becab8"
+        },
+        {
+          "month": "2026-04",
+          "card_title": "Westpark Extension Options and Workshops",
+          "card_sha256": "3723fff64e570d1a98bf0d5b79e9f9175655dfed8f08ec8f70b0831566f5304a"
+        },
+        {
+          "month": "2026-05",
+          "card_title": "Westpark Hospital: Options Cost/Power Coordination and Site Plan Report Draft",
+          "card_sha256": "4d4c0f0f61377706b2a684553006470e86298d02789887a722b629d13c494c13"
+        },
+        {
+          "month": "2026-06",
+          "card_title": "Westpark Hospital Extension — Project Pause and File Organization",
+          "card_sha256": "47987af1f4254aa7f03c909e71613017b89d3f01e43f9e178480b066b95364b9"
+        }
+      ]
+    },
+    {
+      "project_id": "elm_townhouses",
+      "title": {
+        "en": "Townhouse feasibility study"
+      },
+      "text": {
+        "en": "Completed three layout options and a report covering areas, rough costs and risks. Jack provided site and planning material, Andrew supplied costs and Steve selected the report’s case option."
+      },
+      "references": [
+        {
+          "month": "2026-02",
+          "card_title": "Elm Street Townhouses Feasibility Study",
+          "card_sha256": "6912616dd25d96409febbda997650224a1641d95171eb8b345c72867a4016cff"
+        },
+        {
+          "month": "2026-03",
+          "card_title": "Elm Street townhouse study report and conclusion",
+          "card_sha256": "b9b78d0d641dc2b031d82065c206539b6fc63e8e8a3f70f6942e34d8b9414a5d"
+        }
+      ]
+    },
+    {
+      "project_id": "grand_hotel",
+      "title": {
+        "en": "Hotel competition room plans and responses"
+      },
+      "text": {
+        "en": "Drew and revised guestroom-floor plans, submitted formal questions and prepared a stair diagram for the jury response. Room types were split with Emma and Pai guided the overall direction. Second place was the team’s result."
+      },
+      "references": [
+        {
+          "month": "2026-01",
+          "card_title": "Grand Hotel Tower Competition Room Floor Layouts",
+          "card_sha256": "598be7e1f241d63873c844909c6a88514801d3cd12b278dcd08306b3ffe58620"
+        },
+        {
+          "month": "2026-02",
+          "card_title": "Grand Hotel Competition Entry & Post-Submission Inquiry",
+          "card_sha256": "404d5d0988d5322aa9ccad7cc3f828e759f9b3ddf2c497e1ddc42e72c1d454a4"
+        },
+        {
+          "month": "2026-03",
+          "card_title": "Grand Hotel competition completion",
+          "card_sha256": "8fa4a89cb7099e528837c4dbb9a1440580a51ddc6049faa09ef4676eaed637fc"
+        }
+      ]
+    },
+    {
+      "project_id": "bayside_hall",
+      "title": {
+        "en": "Community hall construction issues and defects"
+      },
+      "text": {
+        "en": "Took over site coordination, answered builder queries and issued a lighting instruction before later investigating cracks, coordinating inspections and tracking defects through recorded closure of all 50 items. Laura led the project; Daniel supplied the crack diagnosis, and Nick’s construction team performed repairs."
+      },
+      "references": [
+        {
+          "month": "2025-10",
+          "card_title": "Bayside Hall: Site Work Handover and Builder's Questions",
+          "card_sha256": "f30f2612a0fd727e469454c7ccc7c8c69373d2723159bc579026fa6d475e9ffd"
+        },
+        {
+          "month": "2025-11",
+          "card_title": "Bayside Community Hall: Construction Support and Inspections",
+          "card_sha256": "be288299383986008804ddd7f8a6e1e4710fa9be87dc2b113b76a82f06c1598e"
+        },
+        {
+          "month": "2025-12",
+          "card_title": "Bayside Community Hall defects list, council inspection and opening",
+          "card_sha256": "bd80254909824ee530a1f9f605f39b7e34bb3ab075713608cb9d925aa61574dd"
+        },
+        {
+          "month": "2026-01",
+          "card_title": "Bayside Community Hall Defects Resolution",
+          "card_sha256": "dcfeb7d6a8a790a3ddf66e74f36ddbf6e22b7200b5c798a9cf31ee0653fb2b51"
+        }
+      ]
+    },
+    {
+      "project_id": "pier_apartments",
+      "title": {
+        "en": "Pier apartment layouts and competition"
+      },
+      "text": {
+        "en": "Completed her assigned flat types and plans, checked orientation constraints and used Atlas and Jack’s help on counts and unit mix. Pai directed the raised-building concept; the entry was not selected."
+      },
+      "references": [
+        {
+          "month": "2026-05",
+          "card_title": "Pier Apartments: Competition Brief, Flat Types, Planning, and Submission",
+          "card_sha256": "29bcfcaff93ab2b01df3ca3531caea91c2f57a9d08288d3b272700357b4767dd"
+        },
+        {
+          "month": "2026-06",
+          "card_title": "Pier Apartments — Competition Conclusion",
+          "card_sha256": "f23e8348bee2ff14dc7f02ef68bb5be990baa08a26e2d6824e59bd6b30768e73"
+        }
+      ]
+    },
+    {
+      "project_id": "harbour_library",
+      "title": {
+        "en": "Library competition concepts, submission and archive"
+      },
+      "text": {
+        "en": "Sketched three ideas, clarified the site boundary, prepared draft boards and submitted the team’s three A1 boards with James and Lucy. Lucy supplied the area table, site model and revisions. Later archived the entry and jury note after it was not shortlisted."
+      },
+      "references": [
+        {
+          "month": "2025-10",
+          "card_title": "Shoreline Waterfront Library Ideas Competition",
+          "card_sha256": "4a1f1de2d95ab094a39f35548617eabb4ce1e70b26e5904391b9af82fb7c484f"
+        },
+        {
+          "month": "2025-12",
+          "card_title": "Shoreline library competition archive and closure",
+          "card_sha256": "e69bf852a440b0f988fa0bd6ef15d3ed7522bd98509d73d0453e5a328971c470"
+        }
+      ]
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2025-10",
+      "project_id": "bayside_hall",
+      "title": {
+        "en": "Community hall handover and site queries"
+      },
+      "text": {
+        "en": "Took over site coordination on 6 October, answered questions 14–16 and updated the log. Issued an instruction to move a light clear of the fan hood and requested pricing for stage sockets. Laura remained project lead; the instruction does not establish completed installation."
+      },
+      "references": [
+        {
+          "month": "2025-10",
+          "card_title": "Bayside Hall: Site Work Handover and Builder's Questions",
+          "card_sha256": "f30f2612a0fd727e469454c7ccc7c8c69373d2723159bc579026fa6d475e9ffd"
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "project_id": "harbour_library",
+      "title": {
+        "en": "Library competition concepts, boards and submission"
+      },
+      "text": {
+        "en": "Sketched three ideas, clarified the waterfront site boundary, prepared draft concept, plan and section boards, and confirmed upload and delivery of the team’s three A1 boards. Worked with James and Lucy; Lucy produced the area table, site model and revisions. Results were still pending."
+      },
+      "references": [
+        {
+          "month": "2025-10",
+          "card_title": "Shoreline Waterfront Library Ideas Competition",
+          "card_sha256": "4a1f1de2d95ab094a39f35548617eabb4ce1e70b26e5904391b9af82fb7c484f"
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School design start and classroom layout"
+      },
+      "text": {
+        "en": "Joined the design-start and structural meetings, proposed 62 m² classrooms with shared reading corners, and produced the first classroom layout. Developed the previously approved concept under Dian’s management; the first client-review outcome was not yet established."
+      },
+      "references": [
+        {
+          "month": "2025-10",
+          "card_title": "Lakeside School Detailed Design",
+          "card_sha256": "9e37aea02ae5fe0869509ba8dc8a7f8cfcacdef722c78ecfd888364dd886f629"
+        }
+      ]
+    },
+    {
+      "month": "2025-11",
+      "project_id": "harbour_clinic",
+      "title": {
+        "en": "Clinic layouts and technical coordination"
+      },
+      "text": {
+        "en": "Completed layouts A and B and participated in selecting A; refined the layout with Laura’s guidance and consulted Matt about X-ray room services and equipment requirements."
+      },
+      "references": [
+        {
+          "month": "2025-11",
+          "card_title": "Harbour Clinic: Initial Brief and Layout Options A and B",
+          "card_sha256": "4f90febdbc3791ca4bc3d28b11bea337e50801b1482c1d4216943b9d8f17daee"
+        },
+        {
+          "month": "2025-11",
+          "card_title": "Harbour Clinic: X-Ray Room Requirements and Internal Review",
+          "card_sha256": "8513ffd67ecd61ecaa9303c3ca1c56ac74b6ce09444a3a361aa7804f85a831fc"
+        }
+      ]
+    },
+    {
+      "month": "2025-11",
+      "project_id": "bayside_hall",
+      "title": {
+        "en": "Community hall construction support"
+      },
+      "text": {
+        "en": "Investigated wall cracks and sought Daniel’s assessment; recorded site meetings, coordinated flooring arrangements and booked the final council inspection. Daniel supplied the technical diagnosis."
+      },
+      "references": [
+        {
+          "month": "2025-11",
+          "card_title": "Bayside Community Hall: Construction Support and Inspections",
+          "card_sha256": "be288299383986008804ddd7f8a6e1e4710fa9be87dc2b113b76a82f06c1598e"
+        }
+      ]
+    },
+    {
+      "month": "2025-11",
+      "project_id": "hk_tower",
+      "title": {
+        "en": "Hong Kong apartment layouts"
+      },
+      "text": {
+        "en": "Produced two versions of flat types C and D, incorporating feedback from Karen and colleagues on kitchens, windows and bathrooms; advised Eric on lift-lobby width."
+      },
+      "references": [
+        {
+          "month": "2025-11",
+          "card_title": "Hong Kong Residential Tower: Flat Types and Typical Floor",
+          "card_sha256": "19809a2bfce29f793ee06abcceb3700e12269f66e688b1174b177490889374e1"
+        }
+      ]
+    },
+    {
+      "month": "2025-11",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School layout revisions"
+      },
+      "text": {
+        "en": "Presented the design, recorded client requirements, drew the covered walkway and coordinated Siyi’s toilet and bicycle-space updates for the second review set. Moving the hall east was a subsequent revision request."
+      },
+      "references": [
+        {
+          "month": "2025-11",
+          "card_title": "Lakeside School: Client Reviews and Design Redesign",
+          "card_sha256": "481418675071efbc1f0a0bfbd504b2db77d8e379454aebcadeba237bc6ef9a42"
+        }
+      ]
+    },
+    {
+      "month": "2025-12",
+      "project_id": "harbour_library",
+      "title": {
+        "en": "Library competition close-out"
+      },
+      "text": {
+        "en": "Archived the competition files with the jury note after the entry was not shortlisted. This month records close-out rather than new concept design."
+      },
+      "references": [
+        {
+          "month": "2025-12",
+          "card_title": "Shoreline library competition archive and closure",
+          "card_sha256": "e69bf852a440b0f988fa0bd6ef15d3ed7522bd98509d73d0453e5a328971c470"
+        }
+      ]
+    },
+    {
+      "month": "2025-12",
+      "project_id": "bayside_hall",
+      "title": {
+        "en": "Community hall defect tracking"
+      },
+      "text": {
+        "en": "Joined room-by-room inspections, compiled a 47-item defect list and followed up issues including the leaking door. The builder performed repairs; Ruth handled the council inspection and permit."
+      },
+      "references": [
+        {
+          "month": "2025-12",
+          "card_title": "Bayside Community Hall defects list, council inspection and opening",
+          "card_sha256": "bd80254909824ee530a1f9f605f39b7e34bb3ab075713608cb9d925aa61574dd"
+        }
+      ]
+    },
+    {
+      "month": "2025-12",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School design sign-off"
+      },
+      "text": {
+        "en": "Redrew the third school layout with the hall east and revised kitchen, bin room and playground; the client board signed off the design, with revision guidance from Dian."
+      },
+      "references": [
+        {
+          "month": "2025-12",
+          "card_title": "Lakeside School layout revision and design sign-off",
+          "card_sha256": "5683b477d0f1634febfe6cab15796096b1bb940685d89af7e5c9def07ccc60d1"
+        }
+      ]
+    },
+    {
+      "month": "2025-12",
+      "project_id": "harbour_clinic",
+      "title": {
+        "en": "Clinic pricing documents"
+      },
+      "text": {
+        "en": "Revised reception, completed clinic drawings and room data sheets, and arranged January builder pricing. Sophie prepared finishes samples; 22 drawings is the project package count."
+      },
+      "references": [
+        {
+          "month": "2025-12",
+          "card_title": "Harbour Family Clinic interior design, layout revisions and pricing set",
+          "card_sha256": "7688453950e2587d23ae54a43e525a0c6184bf187272617707ecc662ef700419"
+        }
+      ]
+    },
+    {
+      "month": "2025-12",
+      "project_id": "hk_tower",
+      "title": {
+        "en": "Hong Kong layout delivery"
+      },
+      "text": {
+        "en": "Completed and delivered the typical floor and flat types C and D to the Hong Kong team; Karen and colleagues contributed review and client coordination."
+      },
+      "references": [
+        {
+          "month": "2025-12",
+          "card_title": "Hong Kong residential tower typical floor development",
+          "card_sha256": "2269410fd4245020e61344a197debeb97f57774b1c47bfd82e1bff6d1b97d257"
+        }
+      ]
+    },
+    {
+      "month": "2026-01",
+      "project_id": "hk_tower",
+      "title": {
+        "en": "Hong Kong revisions and handover"
+      },
+      "text": {
+        "en": "Implemented client changes to the flat mix and bin room; handed over final layouts, typical floor and open issues to the Hong Kong office, reviewing them with Peter, Karen and Eric."
+      },
+      "references": [
+        {
+          "month": "2026-01",
+          "card_title": "Hong Kong Tower Typical Floor Changes and Hand-Back",
+          "card_sha256": "62a51187852147b7d0a86ece471285dd4d438d8ee1c004ebd5b544cffe161dfa"
+        }
+      ]
+    },
+    {
+      "month": "2026-01",
+      "project_id": "bayside_hall",
+      "title": {
+        "en": "Community hall defect close-out"
+      },
+      "text": {
+        "en": "Followed up the leaking side door and coordinated repair verification and sign-off with Nick and Paul; recorded closure of all 50 defects and the studio’s site work."
+      },
+      "references": [
+        {
+          "month": "2026-01",
+          "card_title": "Bayside Community Hall Defects Resolution",
+          "card_sha256": "dcfeb7d6a8a790a3ddf66e74f36ddbf6e22b7200b5c798a9cf31ee0653fb2b51"
+        }
+      ]
+    },
+    {
+      "month": "2026-01",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School cost-saving proposal"
+      },
+      "text": {
+        "en": "Sent drawings and areas for costing and proposed a single-pitch metal roof with four rooflights. Robert approved repricing, which does not establish that the roof was built."
+      },
+      "references": [
+        {
+          "month": "2026-01",
+          "card_title": "Lakeside School Cost Check and Roof Value Engineering",
+          "card_sha256": "26c30949c91c7010161cbded3a1f8ba136ebdc04c3636c18a69500755112aa64"
+        }
+      ]
+    },
+    {
+      "month": "2026-01",
+      "project_id": "harbour_clinic",
+      "title": {
+        "en": "Clinic construction coordination"
+      },
+      "text": {
+        "en": "Issued the award letter and proposed splitting the main duct around a low beam in a routing sketch; participated in builder selection with Anna, Laura and Andrew."
+      },
+      "references": [
+        {
+          "month": "2026-01",
+          "card_title": "Harbour Family Clinic Builder Selection and Coordination",
+          "card_sha256": "5c4eb202b26c0c08ef37aff517a541f9fb6bd0b86316737683640758c3804e62"
+        }
+      ]
+    },
+    {
+      "month": "2026-01",
+      "project_id": "grand_hotel",
+      "title": {
+        "en": "Hotel guestroom plans"
+      },
+      "text": {
+        "en": "Drew the first typical guestroom-floor plan and submitted questions on the ballroom and lifts. Grace handled king rooms; Emma handled twin rooms and suites."
+      },
+      "references": [
+        {
+          "month": "2026-01",
+          "card_title": "Grand Hotel Tower Competition Room Floor Layouts",
+          "card_sha256": "598be7e1f241d63873c844909c6a88514801d3cd12b278dcd08306b3ffe58620"
+        }
+      ]
+    },
+    {
+      "month": "2026-02",
+      "project_id": "grand_hotel",
+      "title": {
+        "en": "Hotel competition revisions"
+      },
+      "text": {
+        "en": "Redrew revision B guestroom plans for Pai’s stepped-tower direction and worked with Emma on room-count comparisons. The team submitted the entry and subsequently received jury questions."
+      },
+      "references": [
+        {
+          "month": "2026-02",
+          "card_title": "Grand Hotel Competition Entry & Post-Submission Inquiry",
+          "card_sha256": "404d5d0988d5322aa9ccad7cc3f828e759f9b3ddf2c497e1ddc42e72c1d454a4"
+        }
+      ]
+    },
+    {
+      "month": "2026-02",
+      "project_id": "harbour_clinic",
+      "title": {
+        "en": "Clinic site and delay coordination"
+      },
+      "text": {
+        "en": "Recorded progress on the duct route and proposed two options for the delayed X-ray door. Anna selected 6 April for opening and asked Grace to update the dates."
+      },
+      "references": [
+        {
+          "month": "2026-02",
+          "card_title": "Harbour Clinic Interior Works & Schedule Adjustments",
+          "card_sha256": "a8c22ba1002e4d02344e16461055c7298385bb18464eb4505d664a5d4e0a87f3"
+        }
+      ]
+    },
+    {
+      "month": "2026-02",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School drawing work commissioned"
+      },
+      "text": {
+        "en": "Was assigned to lead the school building drawings, with an interim delivery task established. This month establishes responsibility and planning, not completed drawings."
+      },
+      "references": [
+        {
+          "month": "2026-02",
+          "card_title": "Lakeside School Building Drawings Kickoff",
+          "card_sha256": "b9a57bcea422acd1f2e3b557d282e20ffa4a8d23b52719cf077ba299728aa272"
+        }
+      ]
+    },
+    {
+      "month": "2026-02",
+      "project_id": "elm_townhouses",
+      "title": {
+        "en": "Townhouse feasibility options"
+      },
+      "text": {
+        "en": "Completed layouts A, B and C, joined planning and flood-risk discussions, and requested a rough cost for option B. Jack supplied the site model and planning material."
+      },
+      "references": [
+        {
+          "month": "2026-02",
+          "card_title": "Elm Street Townhouses Feasibility Study",
+          "card_sha256": "6912616dd25d96409febbda997650224a1641d95171eb8b345c72867a4016cff"
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "project_id": "elm_townhouses",
+      "title": {
+        "en": "Townhouse feasibility report"
+      },
+      "text": {
+        "en": "Presented the 24-home option B and completed the report covering options, areas, rough costs and risks. Andrew supplied costs; Steve selected the report’s case option."
+      },
+      "references": [
+        {
+          "month": "2026-03",
+          "card_title": "Elm Street townhouse study report and conclusion",
+          "card_sha256": "b9b78d0d641dc2b031d82065c206539b6fc63e8e8a3f70f6942e34d8b9414a5d"
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "project_id": "grand_hotel",
+      "title": {
+        "en": "Hotel jury response"
+      },
+      "text": {
+        "en": "Prepared a protected-stair diagram for the team’s jury response. The entry placed second of four; that team result is not attributed solely to Grace."
+      },
+      "references": [
+        {
+          "month": "2026-03",
+          "card_title": "Grand Hotel competition completion",
+          "card_sha256": "8fa4a89cb7099e528837c4dbb9a1440580a51ddc6049faa09ef4676eaed637fc"
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "project_id": "northgate",
+      "title": {
+        "en": "Office tower concept options"
+      },
+      "text": {
+        "en": "Produced three tower-form options and raised the possibility of splitting floors between tenants; Pai selected option 2 during review."
+      },
+      "references": [
+        {
+          "month": "2026-03",
+          "card_title": "Northgate Tower overall design and shape selection",
+          "card_sha256": "8d0a6c93a00175a5016f2ca120dd1755d61922c04e80be562fd803b9a06da1d0"
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "project_id": "harbour_clinic",
+      "title": {
+        "en": "Clinic inspection and defects"
+      },
+      "text": {
+        "en": "Advised on the waiting-room finish, booked the council inspection and compiled a 22-item list during a room-by-room walk-through; the builder was responsible for repairs."
+      },
+      "references": [
+        {
+          "month": "2026-03",
+          "card_title": "Harbour Family Clinic interior finishing and inspection",
+          "card_sha256": "139f445eb043d326ad615224b5a5e97ec03e48b0e60c1bdcbb930caec2c65faa"
+        }
+      ]
+    },
+    {
+      "month": "2026-03",
+      "project_id": "westpark_hospital",
+      "title": {
+        "en": "Hospital masterplan start"
+      },
+      "text": {
+        "en": "Was assigned to the hospital extension masterplan and attended the kickoff on departmental needs and adjacencies. Options and the final report were still future deliverables."
+      },
+      "references": [
+        {
+          "month": "2026-03",
+          "card_title": "Westpark Hospital masterplan start-up",
+          "card_sha256": "3181412225f168f82be0bd88a76af7893b291085de2aa59091d3dae354becab8"
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "project_id": "westpark_hospital",
+      "title": {
+        "en": "Three hospital extension options"
+      },
+      "text": {
+        "en": "Completed three extension options and their explanatory document, contributing workshop notes on traffic separation and phasing. Pai favoured option 3 and requested clearer construction stages."
+      },
+      "references": [
+        {
+          "month": "2026-04",
+          "card_title": "Westpark Extension Options and Workshops",
+          "card_sha256": "3723fff64e570d1a98bf0d5b79e9f9175655dfed8f08ec8f70b0831566f5304a"
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "project_id": "harbour_clinic",
+      "title": {
+        "en": "Clinic opening and follow-up"
+      },
+      "text": {
+        "en": "Attended council and defect inspections; Ruth confirmed use from 6 April and Anna approved an additional cooling unit. This does not establish that every defect was closed that month."
+      },
+      "references": [
+        {
+          "month": "2026-04",
+          "card_title": "Harbour Family Clinic Opening and Defect Resolution",
+          "card_sha256": "7bb90744827ab9bc16b7e9c2187323425e9c8e2d86a72b9d882f46869b080fca"
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "project_id": "northgate",
+      "title": {
+        "en": "Office tower client revisions"
+      },
+      "text": {
+        "en": "Contributed to revision A with Siyi, then completed revision B incorporating client comments and sent it to Rachel. The shared drawing package is not entirely Grace’s individual output."
+      },
+      "references": [
+        {
+          "month": "2026-04",
+          "card_title": "Northgate Tower Overall Design Drawings",
+          "card_sha256": "f55d07d86e564f87ad081c6c2fa0d4ff1d63122599b6d94b68c0f2a4ceaa7210"
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School interim drawing submission"
+      },
+      "text": {
+        "en": "Recorded client decisions on shade sails and classroom colours, and submitted interim drawings to Dian. The set held 52 of 84 sheets; Grace’s personal drawing count is not established."
+      },
+      "references": [
+        {
+          "month": "2026-04",
+          "card_title": "Lakeside School Half-Way Building Drawings and Check-in",
+          "card_sha256": "fa5dab9a9e07ae5546dbd79e84f24a5725181e76cddc5b3a7cde5c870f81e437"
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "project_id": "studio",
+      "title": {
+        "en": "Six-month work review"
+      },
+      "text": {
+        "en": "Completed and submitted a self-review to Dian, recording lessons and probation confirmation. This is a work review, not a quantified ability score."
+      },
+      "references": [
+        {
+          "month": "2026-04",
+          "card_title": "Studio Operations, Probation Confirmation, and Self-Review",
+          "card_sha256": "a342f65d73a67f2a3a20ad8e43bfd06340d80600e231d8aebabaa486e5a6e9f7"
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "project_id": "harbour_clinic",
+      "title": {
+        "en": "Clinic defect sign-off"
+      },
+      "text": {
+        "en": "Checked and signed off the repaired defects and notified Anna of close-out; Chris and the construction team performed the 22 repairs."
+      },
+      "references": [
+        {
+          "month": "2026-05",
+          "card_title": "Harbour Family Clinic: Defects Sign-Off and Project Completion",
+          "card_sha256": "8224ae758dc603aa360fb87c9bed82cce307f033ed4847f075dbcc4c65e91f23"
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "project_id": "pier_apartments",
+      "title": {
+        "en": "Pier apartment competition design"
+      },
+      "text": {
+        "en": "Completed her assigned flat types and floor plans and checked orientation constraints with Jane. Atlas assisted counting, Jack adjusted the unit mix, and Pai directed the raised-building concept."
+      },
+      "references": [
+        {
+          "month": "2026-05",
+          "card_title": "Pier Apartments: Competition Brief, Flat Types, Planning, and Submission",
+          "card_sha256": "29bcfcaff93ab2b01df3ca3531caea91c2f57a9d08288d3b272700357b4767dd"
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "project_id": "westpark_hospital",
+      "title": {
+        "en": "Hospital masterplan draft"
+      },
+      "text": {
+        "en": "Requested costs and services requirements and completed a draft masterplan report. Linda selected option 3 and Simon reviewed the draft; it was not a final approved report."
+      },
+      "references": [
+        {
+          "month": "2026-05",
+          "card_title": "Westpark Hospital: Options Cost/Power Coordination and Site Plan Report Draft",
+          "card_sha256": "4d4c0f0f61377706b2a684553006470e86298d02789887a722b629d13c494c13"
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "project_id": "northgate",
+      "title": {
+        "en": "Office tower approval documents"
+      },
+      "text": {
+        "en": "Requested early costing and completed the overall design report. Andrew supplied the estimate; Dian sent the report and drawings to the client for approval."
+      },
+      "references": [
+        {
+          "month": "2026-05",
+          "card_title": "Northgate Tower: Early Cost Estimation Request and Approval Report",
+          "card_sha256": "0c2bd9f48afddc34cbddca7c01a2093b049d765bb511aefdd2810fcdb5363d05"
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School door coordination"
+      },
+      "text": {
+        "en": "Asked Siyi to update classroom doors to glazed-panel types following Dian’s comments; Siyi completed revision 2 of the door and window schedules."
+      },
+      "references": [
+        {
+          "month": "2026-05",
+          "card_title": "Lakeside School: Design Review and Coordination",
+          "card_sha256": "db9c63339b6151d8df933f920e152ad51978ee9f24957253d0f471509eaccf49"
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "project_id": "corner_cafe",
+      "title": {
+        "en": "Café briefing and approval preparation"
+      },
+      "text": {
+        "en": "Joined the first owner meeting, issued notes and obtained the centre’s design guide and approval requirements. Lucy handled site measurements and the guide summary."
+      },
+      "references": [
+        {
+          "month": "2026-05",
+          "card_title": "Corner Café: Project Initiation, Owner Meeting, and Centre Rules Coordination",
+          "card_sha256": "f919544f2c55b2c2d997880a2b4cee11194dc47802412afe75d83a1878fe0364"
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "project_id": "corner_cafe",
+      "title": {
+        "en": "Café layout and approval revisions"
+      },
+      "text": {
+        "en": "Drafted the initial layout, confirmed counter and plumbing arrangements, submitted drawings and addressed signage, grease-trap and sprinkler comments. Lucy contributed services revisions; Kelly approved drawings for pricing."
+      },
+      "references": [
+        {
+          "month": "2026-06",
+          "card_title": "Corner Café Interior Design, Centre Approval, and Pricing",
+          "card_sha256": "80dba786fc5b422ea78b7d561c2379d68131faf1637cf0eab62406b536242dcb"
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "project_id": "westpark_hospital",
+      "title": {
+        "en": "Hospital pause and file organisation"
+      },
+      "text": {
+        "en": "Organised project files into the on-hold directory following the funding pause. This is pause preparation, not completion of the extension."
+      },
+      "references": [
+        {
+          "month": "2026-06",
+          "card_title": "Westpark Hospital Extension — Project Pause and File Organization",
+          "card_sha256": "47987af1f4254aa7f03c909e71613017b89d3f01e43f9e178480b066b95364b9"
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "project_id": "northgate",
+      "title": {
+        "en": "Office tower detailed-design preparation"
+      },
+      "text": {
+        "en": "Planned the drawing register and shared model for the first detailed-design week; Dian, Rachel and the engineering team coordinated approval and milestones."
+      },
+      "references": [
+        {
+          "month": "2026-06",
+          "card_title": "Northgate Tower — Overall Design Approval and Detailed Design Planning",
+          "card_sha256": "c05136e0b1821801b0cf396d698014bfb0f170ca640830d001e50ce97ab0b4e1"
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School foundation assumptions"
+      },
+      "text": {
+        "en": "Coordinated with Daniel on a rock-level assumption note while ground testing remained outstanding; Dian guided the approval and pricing schedule."
+      },
+      "references": [
+        {
+          "month": "2026-06",
+          "card_title": "Lakeside School — Foundation Coordination and Permit Planning",
+          "card_sha256": "cb6c842670b85006476bd938186f70e0713c50ee67b780ae6707dd163d6ad52d"
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "project_id": "pier_apartments",
+      "title": {
+        "en": "Pier competition outcome"
+      },
+      "text": {
+        "en": "The competition entry she contributed to was not selected and the project closed. This month chiefly records the outcome, not a new personal design deliverable."
+      },
+      "references": [
+        {
+          "month": "2026-06",
+          "card_title": "Pier Apartments — Competition Conclusion",
+          "card_sha256": "f23e8348bee2ff14dc7f02ef68bb5be990baa08a26e2d6824e59bd6b30768e73"
+        }
+      ]
+    },
+    {
+      "month": "2026-07",
+      "project_id": "northgate",
+      "title": {
+        "en": "Office tower detailed drawings"
+      },
+      "text": {
+        "en": "Completed the drawing register, shared the model link with engineers and issued revision C interim detailed drawings, working with Dian, Siyi and engineering consultants."
+      },
+      "references": [
+        {
+          "month": "2026-07",
+          "card_title": "Northgate Tower Detailed Design",
+          "card_sha256": "8c625f4329650fa49251671738726f83dffd8b4b0089e6912aaaf6bc0b214bc0"
+        }
+      ]
+    },
+    {
+      "month": "2026-07",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School drawings and permit application"
+      },
+      "text": {
+        "en": "Reported completion of the team’s construction package and submitted the permit application. The 84 sheets and material specification are shared outputs, not Grace’s individual drawing count."
+      },
+      "references": [
+        {
+          "month": "2026-07",
+          "card_title": "Lakeside School Construction Drawings and Permit Application",
+          "card_sha256": "57fe24e3e68e33ab43c2cfd0af45d83905f3950616b2e2c50c541d2e90b848b9"
+        }
+      ]
+    },
+    {
+      "month": "2026-07",
+      "project_id": "riverside",
+      "title": {
+        "en": "Mall competition floor plans"
+      },
+      "text": {
+        "en": "Drew three plan options and progressed revisions, preparing a one-page brief; worked with Davin and Siyi under Dian and Pai’s design guidance."
+      },
+      "references": [
+        {
+          "month": "2026-07",
+          "card_title": "Riverside Mall Design Competition Floor Plans",
+          "card_sha256": "1769618a52fce56bcbb68f86b74702772dc4ebbf23f48510eaefb8438a658625"
+        }
+      ]
+    },
+    {
+      "month": "2026-07",
+      "project_id": "corner_cafe",
+      "title": {
+        "en": "Café builder selection"
+      },
+      "text": {
+        "en": "Joined Joe and Lucy in selecting the builder and communicated the appointment and programme to the owner and Craftfit."
+      },
+      "references": [
+        {
+          "month": "2026-07",
+          "card_title": "Corner Café Builder Appointment",
+          "card_sha256": "d97dcebb28e460460f3b722736f8ecc84608f7ad21c4ac8650464fedca4dc8e1"
+        }
+      ]
+    },
+    {
+      "month": "2026-08",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School pricing and approval replies"
+      },
+      "text": {
+        "en": "Issued pricing documents to four builders, answered questions including window sills and submitted permit-response drawings. Kai advised and, during her leave, logged quotes and opened them with Dian."
+      },
+      "references": [
+        {
+          "month": "2026-08",
+          "card_title": "Lakeside Primary School: Tender and Permit Responses",
+          "card_sha256": "69ff3fc3f8f1452ec02fe8810182420811d73d7b1a5356d126f0c9c1d473264f"
+        }
+      ]
+    },
+    {
+      "month": "2026-08",
+      "project_id": "northgate",
+      "title": {
+        "en": "Office tower cost coordination"
+      },
+      "text": {
+        "en": "Supplied façade areas to the cost consultant and coordinated the completed savings check after an over-budget estimate. Kai extracted the areas and issued revision D."
+      },
+      "references": [
+        {
+          "month": "2026-08",
+          "card_title": "Northgate Tower: Cost Check and Savings Options",
+          "card_sha256": "62c8013b7c69ee9d58ee5aa3d01d4915924991fcaaba507d97f33bd8b00c5609"
+        }
+      ]
+    },
+    {
+      "month": "2026-08",
+      "project_id": "riverside",
+      "title": {
+        "en": "Mall competition revisions and submission"
+      },
+      "text": {
+        "en": "Coordinated plan and area revisions with Davin and Siyi following Pai’s entrance direction and confirmed digital and printed submission. Davin produced visuals; Siyi handled the booklet template and areas."
+      },
+      "references": [
+        {
+          "month": "2026-08",
+          "card_title": "Riverside Mall: Competition Submission",
+          "card_sha256": "05ed483aa7d9aec094b18e4cacce49828729b78dd5ccd26f82e08d0a77329c9b"
+        }
+      ]
+    },
+    {
+      "month": "2026-08",
+      "project_id": "corner_cafe",
+      "title": {
+        "en": "Café site change"
+      },
+      "text": {
+        "en": "Coordinated the counter move to the right wall on site. Dave provided the change price; Lucy offered to cover site follow-up during Grace’s leave."
+      },
+      "references": [
+        {
+          "month": "2026-08",
+          "card_title": "Corner Café: Interior Fit-out Adjustments",
+          "card_sha256": "9f7b399224376cd0babf75777fc3a911114d66da65652ff416e349ecfefbe0e7"
+        }
+      ]
+    },
+    {
+      "month": "2026-08",
+      "project_id": "studio",
+      "title": {
+        "en": "Studio templates and leave handover"
+      },
+      "text": {
+        "en": "Completed and released the new drawing template while crediting Siyi for most of its production; prepared leave handover for three projects and checked arrangements with Kai."
+      },
+      "references": [
+        {
+          "month": "2026-08",
+          "card_title": "Studio Template and Leave Handover",
+          "card_sha256": "7c513a71b8c070bb148ce18f7b1e2f719d547bcc43e61cff3d2b744fef84f22a"
+        }
+      ]
+    },
+    {
+      "month": "2026-09",
+      "project_id": "lakeside",
+      "title": {
+        "en": "School start and site questions"
+      },
+      "text": {
+        "en": "Wrote the builder recommendation, issued the award letter and visited the start of construction; worked with Daniel on a foundation query and directed Siyi’s window-frame drawing check."
+      },
+      "references": [
+        {
+          "month": "2026-09",
+          "card_title": "Lakeside: Builder Selection, Permit, and Construction Start",
+          "card_sha256": "5eb83358ce8c9b4c6676322424cee0d1a35c79a449040d86057839437d3325e4"
+        }
+      ]
+    },
+    {
+      "month": "2026-09",
+      "project_id": "northgate",
+      "title": {
+        "en": "Office tower versions and final issue"
+      },
+      "text": {
+        "en": "Resolved confusion between revisions C and D, reissued D and issued the E detailed set. Daniel provided a lobby structural opinion; Kai checked the issue register. The 61 sheets are the package count."
+      },
+      "references": [
+        {
+          "month": "2026-09",
+          "card_title": "Northgate Tower: Drawing Version Reconciliation, Lobby Adjustment, and Finished Detailed Drawings",
+          "card_sha256": "94c038f417f7a3dbfca631563c87e36baf21b00f686859db3c35f824e5d24b03"
+        }
+      ]
+    },
+    {
+      "month": "2026-09",
+      "project_id": "riverside",
+      "title": {
+        "en": "Mall jury presentation and follow-up"
+      },
+      "text": {
+        "en": "Prepared the interview material, presented plans to the jury and drafted responses after the win. Davin supplied the walkthrough and connection diagram, Siyi updated areas and Atlas assisted question preparation."
+      },
+      "references": [
+        {
+          "month": "2026-09",
+          "card_title": "Riverside Mall: Competition Shortlist, Interview Preparation, and Winning Submission",
+          "card_sha256": "bf2808e2e6366df083f79b658cbdedb21dfc5362417531f8e745d42ba14ed53f"
+        }
+      ]
+    },
+    {
+      "month": "2026-09",
+      "project_id": "corner_cafe",
+      "title": {
+        "en": "Café site inspection"
+      },
+      "text": {
+        "en": "Followed shopfront and interior progress with Dave and Lucy and explained the inspection dependency to Joe. Kelly passed the shopfront inspection; October opening remained planned."
+      },
+      "references": [
+        {
+          "month": "2026-09",
+          "card_title": "Corner Café: Site Visits and Shop Front Inspection",
+          "card_sha256": "b34e3851cf434b07be59dcb55c25c5c3cee9f64e9ccdb5c5789d905e7990603a"
+        }
+      ]
+    }
+  ]
+}

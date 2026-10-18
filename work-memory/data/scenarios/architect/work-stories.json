@@ -1,0 +1,2855 @@
+[
+  {
+    "id": "E-ST-21",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-201",
+      "R-ST-202",
+      "R-ST-203",
+      "R-ST-204"
+    ],
+    "stage": "Studio",
+    "title_zh": "First day: Grace knows only Rose and Dian",
+    "title_en": "First day: Grace knows only Rose and Dian",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-22",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-206",
+      "R-ST-207",
+      "R-ST-208"
+    ],
+    "stage": "Studio",
+    "title_zh": "First week: Siyi shows the server, lunch with Pai",
+    "title_en": "First week: Siyi shows the server, lunch with Pai",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-BH-01",
+    "project_id": "bayside_hall",
+    "source_ids": [
+      "R-BH-001",
+      "R-BH-002",
+      "R-BH-003",
+      "R-BH-004"
+    ],
+    "stage": "Handover & defects",
+    "title_zh": "Taking over a hall under construction from Luke",
+    "title_en": "Taking over a hall under construction from Luke",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-28",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-WEEKLY-10-06",
+      "R-ST-WEEKLY-11-03",
+      "R-ST-WEEKLY-03-09"
+    ],
+    "stage": "Studio",
+    "title_zh": "Monday meetings: projects come and go over the year",
+    "title_en": "Monday meetings: projects come and go over the year",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-BH-02",
+    "project_id": "bayside_hall",
+    "source_ids": [
+      "R-BH-005",
+      "R-BH-006",
+      "R-BH-008",
+      "R-T-BH-01-completed"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "First site meeting: the opening cannot move; three questions answered",
+    "title_en": "First site meeting: the opening cannot move; three questions answered",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-41",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-201",
+      "R-LK-202",
+      "R-LK-203",
+      "R-CAL-LK-KO0"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Grace joins the school: the hall on the street side",
+    "title_en": "Grace joins the school: the hall on the street side",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HL-01",
+    "project_id": "harbour_library",
+    "source_ids": [
+      "R-HL-001",
+      "R-HL-002",
+      "R-HL-003",
+      "R-CAL-HL-KO"
+    ],
+    "stage": "Competition",
+    "title_zh": "A two-week library ideas competition: James, Grace and Lucy",
+    "title_en": "A two-week library ideas competition: James, Grace and Lucy",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HL-02",
+    "project_id": "harbour_library",
+    "source_ids": [
+      "R-HL-004",
+      "R-HL-005",
+      "R-HL-008"
+    ],
+    "stage": "Competition",
+    "title_zh": "Three ideas; James picks the long reading room over the water",
+    "title_en": "Three ideas; James picks the long reading room over the water",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-42",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-204",
+      "R-LK-208"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Structure: concrete floors and a steel roof; two ground tests still missing",
+    "title_en": "Structure: concrete floors and a steel roof; two ground tests still missing",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HL-03",
+    "project_id": "harbour_library",
+    "source_ids": [
+      "R-HL-006",
+      "R-HL-007",
+      "R-CAL-HL-Q"
+    ],
+    "stage": "Competition",
+    "title_zh": "Question: can the building sit over the water? Answer: no",
+    "title_en": "Question: can the building sit over the water? Answer: no",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HL-04",
+    "project_id": "harbour_library",
+    "source_ids": [
+      "R-HL-011",
+      "R-HL-012",
+      "R-HL-013",
+      "R-HL-014"
+    ],
+    "stage": "Competition",
+    "title_zh": "Pai's review: back onto land, fewer words on the boards",
+    "title_en": "Pai's review: back onto land, fewer words on the boards",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-43",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-205",
+      "R-LK-206",
+      "R-LK-207"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Classroom size: 62 m² with shared reading corners",
+    "title_en": "Classroom size: 62 m² with shared reading corners",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-BH-03",
+    "project_id": "bayside_hall",
+    "source_ids": [
+      "R-BH-012",
+      "R-BH-013",
+      "R-BH-014",
+      "R-BH-015"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Two power points on the stage: priced, then approved",
+    "title_en": "Two power points on the stage: priced, then approved",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HL-05",
+    "project_id": "harbour_library",
+    "source_ids": [
+      "R-HL-016",
+      "R-HL-017",
+      "R-HL-018"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Library entry submitted on time",
+    "title_en": "Library entry submitted on time",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-01",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-001",
+      "R-HC-002",
+      "R-HC-003",
+      "R-CAL-HC-KO"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Clinic interior starts: open by the end of March",
+    "title_en": "Clinic interior starts: open by the end of March",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-BH-04",
+    "project_id": "bayside_hall",
+    "source_ids": [
+      "R-BH-016",
+      "R-BH-017",
+      "R-BH-018",
+      "R-BH-019"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "A wall crack: the engineer says it is only drying plaster",
+    "title_en": "A wall crack: the engineer says it is only drying plaster",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HK-01",
+    "project_id": "hk_tower",
+    "source_ids": [
+      "R-HK-001",
+      "R-HK-002",
+      "R-HK-003",
+      "R-HK-004"
+    ],
+    "stage": "Helping another office",
+    "title_zh": "Three days a week helping the Hong Kong office on a residential tower",
+    "title_en": "Three days a week helping the Hong Kong office on a residential tower",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-02",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-004",
+      "R-HC-005",
+      "R-HC-006"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Two layouts; the clinic picks reception at the door",
+    "title_en": "Two layouts; the clinic picks reception at the door",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-44",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-209",
+      "R-LK-210",
+      "R-LK-211"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Client review 1: walkway, toilets, bikes",
+    "title_en": "Client review 1: walkway, toilets, bikes",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HK-02",
+    "project_id": "hk_tower",
+    "source_ids": [
+      "R-HK-005",
+      "R-HK-006",
+      "R-HK-008"
+    ],
+    "stage": "Helping another office",
+    "title_zh": "Hong Kong rules: closed kitchens, big enough bedroom windows",
+    "title_en": "Hong Kong rules: closed kitchens, big enough bedroom windows",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-03",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-007",
+      "R-HC-008",
+      "R-T-HC-03-completed"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "The lead-lined X-ray door takes six weeks to make",
+    "title_en": "The lead-lined X-ray door takes six weeks to make",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-BH-06",
+    "project_id": "bayside_hall",
+    "source_ids": [
+      "R-BH-022",
+      "R-BH-023",
+      "R-BH-030",
+      "R-BH-031",
+      "R-BH-032"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "Council inspection passed; permission to use the building",
+    "title_en": "Council inspection passed; permission to use the building",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HK-03",
+    "project_id": "hk_tower",
+    "source_ids": [
+      "R-HK-009",
+      "R-HK-009r",
+      "R-HK-010",
+      "R-HK-011"
+    ],
+    "stage": "Helping another office",
+    "title_zh": "Flat mix decided; deeper balconies",
+    "title_en": "Flat mix decided; deeper balconies",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-45",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-212",
+      "R-LK-213",
+      "R-T-LK-23-completed"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "The client reverses a decision: the hall moves east",
+    "title_en": "The client reverses a decision: the hall moves east",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-04",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-009",
+      "R-HC-010",
+      "R-HC-011",
+      "R-HC-012"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "At sign-off the clinic changes its mind: reception beside the waiting area",
+    "title_en": "At sign-off the clinic changes its mind: reception beside the waiting area",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HL-06",
+    "project_id": "harbour_library",
+    "source_ids": [
+      "R-HL-020",
+      "R-HL-021",
+      "R-HL-022",
+      "R-HL-023"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Result a week late: not shortlisted; project closed",
+    "title_en": "Result a week late: not shortlisted; project closed",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-23",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-213",
+      "R-CAL-ST-XMAS",
+      "R-ST-215",
+      "R-ST-215r"
+    ],
+    "stage": "Studio",
+    "title_zh": "Before the Christmas closure",
+    "title_en": "Before the Christmas closure",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-BH-05",
+    "project_id": "bayside_hall",
+    "source_ids": [
+      "R-BH-025",
+      "R-BH-026",
+      "R-BH-027"
+    ],
+    "stage": "Handover & defects",
+    "title_zh": "Walk-through: 47 defects listed",
+    "title_en": "Walk-through: 47 defects listed",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-46",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-214",
+      "R-LK-216"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "School design signed off",
+    "title_en": "School design signed off",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-BH-07",
+    "project_id": "bayside_hall",
+    "source_ids": [
+      "R-BH-033",
+      "R-BH-034",
+      "R-BH-035",
+      "R-BH-036"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "The hall opens on 12 December",
+    "title_en": "The hall opens on 12 December",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HK-04",
+    "project_id": "hk_tower",
+    "source_ids": [
+      "R-HK-012",
+      "R-HK-013",
+      "R-HK-014",
+      "R-HK-015"
+    ],
+    "stage": "Helping another office",
+    "title_zh": "Files to Hong Kong before the closure",
+    "title_en": "Files to Hong Kong before the closure",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-BH-08",
+    "project_id": "bayside_hall",
+    "source_ids": [
+      "R-BH-037",
+      "R-BH-038",
+      "R-BH-039",
+      "R-BH-042",
+      "R-BH-043",
+      "R-BH-044"
+    ],
+    "stage": "Handover & defects",
+    "title_zh": "The side door leak: the first answer was wrong; an unsealed joint was the cause",
+    "title_en": "The side door leak: the first answer was wrong; an unsealed joint was the cause",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-BH-09",
+    "project_id": "bayside_hall",
+    "source_ids": [
+      "R-BH-040",
+      "R-BH-045",
+      "R-BH-046",
+      "R-BH-047",
+      "R-BH-048",
+      "R-BH-049",
+      "R-BH-050"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "All defects fixed a week late; project closed",
+    "title_en": "All defects fixed a week late; project closed",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-05",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-013",
+      "R-HC-014",
+      "R-HC-015",
+      "R-HC-016",
+      "R-HC-017"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Three prices; Fitline chosen",
+    "title_en": "Three prices; Fitline chosen",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HK-05",
+    "project_id": "hk_tower",
+    "source_ids": [
+      "R-HK-016",
+      "R-HK-017",
+      "R-HK-018",
+      "R-HK-019"
+    ],
+    "stage": "Helping another office",
+    "title_zh": "Different holidays: changes sent while our studio was closed",
+    "title_en": "Different holidays: changes sent while our studio was closed",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-47",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-218",
+      "R-LK-219",
+      "R-LK-220",
+      "R-LK-221"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "4% over: a single-slope roof brings it back within budget",
+    "title_en": "4% over: a single-slope roof brings it back within budget",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HK-06",
+    "project_id": "hk_tower",
+    "source_ids": [
+      "R-HK-020",
+      "R-HK-021",
+      "R-HK-022",
+      "R-HK-023",
+      "R-HK-024"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Work handed back to Hong Kong on 16 January",
+    "title_en": "Work handed back to Hong Kong on 16 January",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-GH-01",
+    "project_id": "grand_hotel",
+    "source_ids": [
+      "R-GH-001",
+      "R-GH-002",
+      "R-GH-003",
+      "R-GH-004"
+    ],
+    "stage": "Competition",
+    "title_zh": "A one-month hotel competition with a team of ten",
+    "title_en": "A one-month hotel competition with a team of ten",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-06",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-018",
+      "R-HC-019",
+      "R-HC-020",
+      "R-HC-021",
+      "R-HC-022"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Work starts; a lower beam found above the old ceiling",
+    "title_en": "Work starts; a lower beam found above the old ceiling",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-GH-02",
+    "project_id": "grand_hotel",
+    "source_ids": [
+      "R-GH-006",
+      "R-GH-007",
+      "R-GH-008"
+    ],
+    "stage": "Competition",
+    "title_zh": "Site visit and questions: the ballroom may go below ground",
+    "title_en": "Site visit and questions: the ballroom may go below ground",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-GH-03",
+    "project_id": "grand_hotel",
+    "source_ids": [
+      "R-GH-009",
+      "R-GH-010",
+      "R-GH-011"
+    ],
+    "stage": "Competition",
+    "title_zh": "Review 1: Pai picks the twisting tower",
+    "title_en": "Review 1: Pai picks the twisting tower",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-GH-04",
+    "project_id": "grand_hotel",
+    "source_ids": [
+      "R-GH-012",
+      "R-GH-013",
+      "R-GH-013r"
+    ],
+    "stage": "Competition",
+    "title_zh": "Counting rooms: 38 would have a sloping wall",
+    "title_en": "Counting rooms: 38 would have a sloping wall",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-24",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-217",
+      "R-ST-218",
+      "R-ST-218r"
+    ],
+    "stage": "Studio",
+    "title_zh": "Asking for 2026 leave",
+    "title_en": "Asking for 2026 leave",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-GH-05",
+    "project_id": "grand_hotel",
+    "source_ids": [
+      "R-GH-014",
+      "R-GH-015",
+      "R-GH-016"
+    ],
+    "stage": "Competition",
+    "title_zh": "Review 2: the twist is dropped for two stepped towers",
+    "title_en": "Review 2: the twist is dropped for two stepped towers",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-48",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-222",
+      "R-LK-223",
+      "R-LK-224",
+      "R-LK-225"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Building drawings start; two ground tests still not drilled",
+    "title_en": "Building drawings start; two ground tests still not drilled",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-GH-06",
+    "project_id": "grand_hotel",
+    "source_ids": [
+      "R-GH-017",
+      "R-GH-018",
+      "R-GH-019",
+      "R-GH-020",
+      "R-GH-021"
+    ],
+    "stage": "Competition",
+    "title_zh": "The last nine days: ballroom, booklet comments, pictures",
+    "title_en": "The last nine days: ballroom, booklet comments, pictures",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-07",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-024",
+      "R-HC-025",
+      "R-HC-026",
+      "R-CAL-HC-OPEN2"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "The door is three weeks late: opening moves to 6 April",
+    "title_en": "The door is three weeks late: opening moves to 6 April",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ET-01",
+    "project_id": "elm_townhouses",
+    "source_ids": [
+      "R-ET-001",
+      "R-ET-002",
+      "R-ET-003",
+      "R-ET-004"
+    ],
+    "stage": "Studies & site plans",
+    "title_zh": "A three-week townhouse feasibility study",
+    "title_en": "A three-week townhouse feasibility study",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-GH-07",
+    "project_id": "grand_hotel",
+    "source_ids": [
+      "R-GH-022",
+      "R-GH-023",
+      "R-GH-024",
+      "R-GH-025"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Hotel entry submitted on time",
+    "title_en": "Hotel entry submitted on time",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ET-02",
+    "project_id": "elm_townhouses",
+    "source_ids": [
+      "R-ET-005",
+      "R-ET-006"
+    ],
+    "stage": "Studies & site plans",
+    "title_zh": "Three layouts; Simon prefers option B",
+    "title_en": "Three layouts; Simon prefers option B",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ET-03",
+    "project_id": "elm_townhouses",
+    "source_ids": [
+      "R-ET-007",
+      "R-ET-014"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "Planner: feasible, but the back lane floods",
+    "title_en": "Planner: feasible, but the back lane floods",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-41",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-201",
+      "R-NG-202",
+      "R-NG-203",
+      "R-CAL-NG-START"
+    ],
+    "stage": "Concept design",
+    "title_zh": "Grace joins the office tower: the overall design first",
+    "title_en": "Grace joins the office tower: the overall design first",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ET-04",
+    "project_id": "elm_townhouses",
+    "source_ids": [
+      "R-ET-008",
+      "R-ET-009",
+      "R-ET-010",
+      "R-ET-011",
+      "R-ET-012",
+      "R-ET-013"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Study delivered: option B with the flood risk",
+    "title_en": "Study delivered: option B with the flood risk",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-GH-08",
+    "project_id": "grand_hotel",
+    "source_ids": [
+      "R-GH-026",
+      "R-GH-027",
+      "R-GH-028",
+      "R-GH-029",
+      "R-GH-030"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Second place; project closed; three lessons written down",
+    "title_en": "Second place; project closed; three lessons written down",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-43",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-204",
+      "R-NG-206",
+      "R-NG-207"
+    ],
+    "stage": "Concept design",
+    "title_zh": "The slim tower set back from the street, with a tall lobby, is chosen",
+    "title_en": "The slim tower set back from the street, with a tall lobby, is chosen",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-42",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-205",
+      "R-NG-205b"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Trying ModelCheck: all six problems in its first report were real",
+    "title_en": "Trying ModelCheck: all six problems in its first report were real",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-08",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-030",
+      "R-HC-031",
+      "R-HC-032",
+      "R-HC-035",
+      "R-HC-036"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "Door fitted; council inspection passed",
+    "title_en": "Door fitted; council inspection passed",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-WP-01",
+    "project_id": "westpark_hospital",
+    "source_ids": [
+      "R-WP-001",
+      "R-WP-002",
+      "R-WP-003",
+      "R-WP-004"
+    ],
+    "stage": "Studies & site plans",
+    "title_zh": "Hospital site plan starts: the hospital must keep running",
+    "title_en": "Hospital site plan starts: the hospital must keep running",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HK-07",
+    "project_id": "hk_tower",
+    "source_ids": [
+      "R-HK-026"
+    ],
+    "stage": "Helping another office",
+    "title_zh": "Hong Kong client approves the layouts (for information)",
+    "title_en": "Hong Kong client approves the layouts (for information)",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ET-05",
+    "project_id": "elm_townhouses",
+    "source_ids": [
+      "R-ET-015",
+      "R-ET-016"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "The developer decides not to buy; project closed",
+    "title_en": "The developer decides not to buy; project closed",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-WP-02",
+    "project_id": "westpark_hospital",
+    "source_ids": [
+      "R-WP-005",
+      "R-WP-006",
+      "R-WP-007"
+    ],
+    "stage": "Studies & site plans",
+    "title_zh": "Workshop and walk-around: ambulances and visitors share one road",
+    "title_en": "Workshop and walk-around: ambulances and visitors share one road",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-09",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-037",
+      "R-HC-038"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "The clinic opens",
+    "title_en": "The clinic opens",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-25",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-220",
+      "R-ST-221",
+      "R-ST-222"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Six-month review: probation passed",
+    "title_en": "Six-month review: probation passed",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-44",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-208",
+      "R-NG-209",
+      "R-NG-210",
+      "R-NG-211"
+    ],
+    "stage": "Concept design",
+    "title_zh": "Client's three comments; overall design drawings version B",
+    "title_en": "Client's three comments; overall design drawings version B",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-26",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-223",
+      "R-ST-WEEKLY-04-13",
+      "R-ST-WEEKLY-04-13-scribe"
+    ],
+    "stage": "Studio",
+    "title_zh": "The studio starts trying Scribe for meeting notes",
+    "title_en": "The studio starts trying Scribe for meeting notes",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-49",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-226m",
+      "R-LK-226",
+      "R-LK-227",
+      "R-LK-228"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Building drawings half-way: Dian's three comments",
+    "title_en": "Building drawings half-way: Dian's three comments",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-HC-10",
+    "project_id": "harbour_clinic",
+    "source_ids": [
+      "R-HC-039",
+      "R-HC-040",
+      "R-HC-041",
+      "R-HC-042",
+      "R-HC-044",
+      "R-HC-046"
+    ],
+    "stage": "Handover & defects",
+    "title_zh": "X-ray room too warm: the new machine runs hotter; all defects fixed",
+    "title_en": "X-ray room too warm: the new machine runs hotter; all defects fixed",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-WP-03",
+    "project_id": "westpark_hospital",
+    "source_ids": [
+      "R-WP-008",
+      "R-WP-009",
+      "R-WP-010"
+    ],
+    "stage": "Studies & site plans",
+    "title_zh": "Three options; Pai and the hospital lean to option 3",
+    "title_en": "Three options; Pai and the hospital lean to option 3",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-WP-04",
+    "project_id": "westpark_hospital",
+    "source_ids": [
+      "R-WP-011",
+      "R-WP-012",
+      "R-WP-013"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Cost and power: option 3 costs 12% more in stage one",
+    "title_en": "Cost and power: option 3 costs 12% more in stage one",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-PA-01",
+    "project_id": "pier_apartments",
+    "source_ids": [
+      "R-PA-001",
+      "R-PA-002",
+      "R-PA-003"
+    ],
+    "stage": "Competition",
+    "title_zh": "A two-week pier apartment competition",
+    "title_en": "A two-week pier apartment competition",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-45",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-212",
+      "R-NG-213",
+      "R-NG-214"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Early cost: 99% of budget, little spare",
+    "title_en": "Early cost: 99% of budget, little spare",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-PA-02",
+    "project_id": "pier_apartments",
+    "source_ids": [
+      "R-PA-004",
+      "R-PA-005",
+      "R-PA-006"
+    ],
+    "stage": "Competition",
+    "title_zh": "First flat types; wharf-side bedrooms need noise-blocking glass",
+    "title_en": "First flat types; wharf-side bedrooms need noise-blocking glass",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-PA-03",
+    "project_id": "pier_apartments",
+    "source_ids": [
+      "R-PA-007",
+      "R-PA-007-reply",
+      "R-PA-008",
+      "R-PA-009"
+    ],
+    "stage": "Competition",
+    "title_zh": "First use of Atlas: two flats short, mix off",
+    "title_en": "First use of Atlas: two flats short, mix off",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-27",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-224",
+      "R-ST-225",
+      "R-CAL-ST-LEAVE1"
+    ],
+    "stage": "Studio",
+    "title_zh": "Atlas for everyone; day off on 19 June approved",
+    "title_en": "Atlas for everyone; day off on 19 June approved",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-PA-04",
+    "project_id": "pier_apartments",
+    "source_ids": [
+      "R-PA-010",
+      "R-PA-011",
+      "R-PA-012",
+      "R-PA-013"
+    ],
+    "stage": "Competition",
+    "title_zh": "Pai: raise the building so the walk passes under it",
+    "title_en": "Pai: raise the building so the walk passes under it",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-WP-05",
+    "project_id": "westpark_hospital",
+    "source_ids": [
+      "R-WP-014",
+      "R-WP-014s"
+    ],
+    "stage": "Studies & site plans",
+    "title_zh": "Hospital picks option 3: the parking building first",
+    "title_en": "Hospital picks option 3: the parking building first",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-PA-05",
+    "project_id": "pier_apartments",
+    "source_ids": [
+      "R-PA-014",
+      "R-PA-015",
+      "R-PA-016"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Pier entry submitted on time",
+    "title_en": "Pier entry submitted on time",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-CC-01",
+    "project_id": "corner_cafe",
+    "source_ids": [
+      "R-CC-001",
+      "R-CC-002",
+      "R-CAL-CC-KO"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "A café in a shopping centre: a small job, opening 9 October",
+    "title_en": "A café in a shopping centre: a small job, opening 9 October",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-CC-02",
+    "project_id": "corner_cafe",
+    "source_ids": [
+      "R-CC-003",
+      "R-CC-004",
+      "R-CC-005",
+      "R-CC-006"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "The centre's rules for shops: shop front, sign, grease trap",
+    "title_en": "The centre's rules for shops: shop front, sign, grease trap",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-WP-06",
+    "project_id": "westpark_hospital",
+    "source_ids": [
+      "R-WP-015",
+      "R-WP-016",
+      "R-WP-017"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Draft site plan report sent to the hospital board",
+    "title_en": "Draft site plan report sent to the hospital board",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-46",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-215",
+      "R-NG-216",
+      "R-NG-217"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Summit approves the overall design",
+    "title_en": "Summit approves the overall design",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-CC-03",
+    "project_id": "corner_cafe",
+    "source_ids": [
+      "R-CC-007",
+      "R-CC-008",
+      "R-CC-009"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "The owner picks the counter on the left wall",
+    "title_en": "The owner picks the counter on the left wall",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-WP-07",
+    "project_id": "westpark_hospital",
+    "source_ids": [
+      "R-WP-018",
+      "R-WP-019",
+      "R-WP-020"
+    ],
+    "stage": "Studies & site plans",
+    "title_zh": "State funding delayed: project on hold",
+    "title_en": "State funding delayed: project on hold",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-CC-04",
+    "project_id": "corner_cafe",
+    "source_ids": [
+      "R-CC-010",
+      "R-CC-011",
+      "R-CC-012",
+      "R-CC-013"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "The centre's three comments; approved for pricing",
+    "title_en": "The centre's three comments; approved for pricing",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-PA-06",
+    "project_id": "pier_apartments",
+    "source_ids": [
+      "R-PA-017",
+      "R-PA-018"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Not won; project closed",
+    "title_en": "Not won; project closed",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-47",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-218",
+      "R-NG-219"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Planning the detailed design: from July, with Kai",
+    "title_en": "Planning the detailed design: from July, with Kai",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-CC-05",
+    "project_id": "corner_cafe",
+    "source_ids": [
+      "R-CC-014",
+      "R-CC-015",
+      "R-CC-016",
+      "R-CC-017",
+      "R-CC-018",
+      "R-CC-019"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Three prices; Craftfit chosen",
+    "title_en": "Three prices; Craftfit chosen",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-01",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-001",
+      "R-ST-001r",
+      "R-ST-002",
+      "R-ST-003"
+    ],
+    "stage": "Studio",
+    "title_zh": "First week: three projects at three stages",
+    "title_en": "First week: three projects at three stages",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-01",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-001",
+      "R-NG-002",
+      "R-CAL-NG-KO"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Detailed design starts: dates, roles and the 8 m lobby",
+    "title_en": "Detailed design starts: dates, roles and the 8 m lobby",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-01",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-001",
+      "R-CAL-LK-CD"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Lakeside: the timetable from drawings to building site",
+    "title_en": "Lakeside: the timetable from drawings to building site",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-02",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-002",
+      "R-LK-003",
+      "R-LK-004",
+      "R-LK-008",
+      "R-LK-009",
+      "R-LK-010"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Siyi checks the door and window lists; one window type merged",
+    "title_en": "Siyi checks the door and window lists; one window type merged",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-03",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-005",
+      "R-LK-005r",
+      "R-LK-006",
+      "R-LK-007"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Materials description: only the changes marked up",
+    "title_en": "Materials description: only the changes marked up",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-02",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-003",
+      "R-NG-005",
+      "R-T-NG-01-completed"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Drawing list and shared model sent to the engineers",
+    "title_en": "Drawing list and shared model sent to the engineers",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-01",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-001",
+      "R-RV-002",
+      "R-CAL-RV-BRIEF"
+    ],
+    "stage": "Competition",
+    "title_zh": "Invitation and brief for the Riverside Mall competition",
+    "title_en": "Invitation and brief for the Riverside Mall competition",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-11",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-WEEKLY-07-06",
+      "R-ST-WEEKLY-07-20",
+      "R-ST-WEEKLY-07-20-scribe"
+    ],
+    "stage": "Studio",
+    "title_zh": "Monday meetings: the rhythm of the quarter",
+    "title_en": "Monday meetings: the rhythm of the quarter",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-02",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-003",
+      "R-RV-003r",
+      "R-RV-004",
+      "R-RV-004b"
+    ],
+    "stage": "Competition",
+    "title_zh": "Team roles: Grace leads plans and coordination",
+    "title_en": "Team roles: Grace leads plans and coordination",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-03",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-005",
+      "R-RV-006",
+      "R-RV-006s"
+    ],
+    "stage": "Competition",
+    "title_zh": "Kick-off: six weeks, one idea",
+    "title_en": "Kick-off: six weeks, one idea",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-04",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-007",
+      "R-RV-008"
+    ],
+    "stage": "Competition",
+    "title_zh": "Site visit: the metro station is the key",
+    "title_en": "Site visit: the metro station is the key",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-03",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-004",
+      "R-NG-006",
+      "R-NG-008"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "First meeting with the engineers: equipment room grows to 210 m²",
+    "title_en": "First meeting with the engineers: equipment room grows to 210 m²",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-05",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-009"
+    ],
+    "stage": "Competition",
+    "title_zh": "Siyi sets up the floor area table",
+    "title_en": "Siyi sets up the floor area table",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-04",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-007",
+      "R-T-NG-02-completed"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Siyi finishes the plans of the lifts and stairs",
+    "title_en": "Siyi finishes the plans of the lifts and stairs",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-05",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-011",
+      "R-LK-014"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Dian's three comments on the 90% set",
+    "title_en": "Dian's three comments on the 90% set",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-02",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-004",
+      "R-ST-004b"
+    ],
+    "stage": "Studio",
+    "title_zh": "Kai is back in the studio",
+    "title_en": "Kai is back in the studio",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-06",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-010",
+      "R-RV-011"
+    ],
+    "stage": "Competition",
+    "title_zh": "Comparing three building shapes: keep A and B, drop C",
+    "title_en": "Comparing three building shapes: keep A and B, drop C",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-04",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-012",
+      "R-LK-013"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Client: open September 2027; colour option B",
+    "title_en": "Client: open September 2027; colour option B",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-05",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-011",
+      "R-NG-012",
+      "R-NG-012s"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Client workshop: every floor can split between two tenants",
+    "title_en": "Client workshop: every floor can split between two tenants",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-03",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-005",
+      "R-CAL-ST-LEAVE"
+    ],
+    "stage": "Studio",
+    "title_zh": "Leave 24–28 August approved; Kai covers",
+    "title_en": "Leave 24–28 August approved; Kai covers",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-07",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-012",
+      "R-RV-012-reply",
+      "R-RV-013",
+      "R-RV-014"
+    ],
+    "stage": "Competition",
+    "title_zh": "Atlas area check finds a double count",
+    "title_en": "Atlas area check finds a double count",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-06",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-013"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Two tenants per floor need one more shaft for pipes and cables",
+    "title_en": "Two tenants per floor need one more shaft for pipes and cables",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-07",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-014",
+      "R-NG-015",
+      "R-NG-015b",
+      "R-NG-017"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "ModelCheck finds 14 places where ducts hit beams; down to 2 in a week",
+    "title_en": "ModelCheck finds 14 places where ducts hit beams; down to 2 in a week",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-08",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-015",
+      "R-RV-016",
+      "R-CAL-RV-Q"
+    ],
+    "stage": "Competition",
+    "title_zh": "Three questions sent before the deadline",
+    "title_en": "Three questions sent before the deadline",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-09",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-016b",
+      "R-T-RV-01-completed"
+    ],
+    "stage": "Competition",
+    "title_zh": "Floor plan options A and B (version A)",
+    "title_en": "Floor plan options A and B (version A)",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-10",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-017",
+      "R-RV-018",
+      "R-RV-019"
+    ],
+    "stage": "Competition",
+    "title_zh": "Brief update: 62,500 m² and a link to the metro",
+    "title_en": "Brief update: 62,500 m² and a link to the metro",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-11",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-020",
+      "R-RV-021",
+      "R-RV-022"
+    ],
+    "stage": "Competition",
+    "title_zh": "Answering the new brief; Ava joins to plan the shops",
+    "title_en": "Answering the new brief; Ava joins to plan the shops",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-06",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-015",
+      "R-LK-016",
+      "R-LK-017",
+      "R-LK-017r"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Structural drawings in; north foundation depth to be confirmed on site",
+    "title_en": "Structural drawings in; north foundation depth to be confirmed on site",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-CC-06",
+    "project_id": "corner_cafe",
+    "source_ids": [
+      "R-CC-020",
+      "R-CC-021",
+      "R-CC-022",
+      "R-CC-023",
+      "R-CC-024"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "The centre approves the works; started 10 August",
+    "title_en": "The centre approves the works; started 10 August",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-12",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-023",
+      "R-RV-023r",
+      "R-RV-026"
+    ],
+    "stage": "Competition",
+    "title_zh": "Dian's four ground-floor comments go into plan version B",
+    "title_en": "Dian's four ground-floor comments go into plan version B",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-07",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-018",
+      "R-LK-020",
+      "R-LK-021",
+      "R-T-LK-01-completed"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "School building drawings finished",
+    "title_en": "School building drawings finished",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-08",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-016"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Heavy beams over the lobby are 1.2 m deep; the 8 m lobby works",
+    "title_en": "Heavy beams over the lobby are 1.2 m deep; the 8 m lobby works",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-10",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-006",
+      "R-ST-011",
+      "R-ST-020",
+      "R-ST-021"
+    ],
+    "stage": "Studio",
+    "title_zh": "Studio South group: cake, roof drinks, mooncakes and lunch",
+    "title_en": "Studio South group: cake, roof drinks, mooncakes and lunch",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-13",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-024",
+      "R-RV-024s"
+    ],
+    "stage": "Competition",
+    "title_zh": "Review 1: Pai picks two corner entrances",
+    "title_en": "Review 1: Pai picks two corner entrances",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-16",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-025",
+      "R-RV-034"
+    ],
+    "stage": "Competition",
+    "title_zh": "Floor plans version C: two corner entrances",
+    "title_en": "Floor plans version C: two corner entrances",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-05",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-WEEKLY-07-27",
+      "R-ST-009",
+      "R-ST-010",
+      "R-T-ST-01-completed"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Studio drawing template updated",
+    "title_en": "Studio drawing template updated",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-08",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-022",
+      "R-LK-023",
+      "R-LK-024"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "Building permit application sent",
+    "title_en": "Building permit application sent",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-09",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-019",
+      "R-NG-020",
+      "R-T-NG-03-completed"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Client picks split-floor version A",
+    "title_en": "Client picks split-floor version A",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-04",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-007",
+      "R-ST-008"
+    ],
+    "stage": "Studio",
+    "title_zh": "Mid-year review: goal is a written way of sending drawings",
+    "title_en": "Mid-year review: goal is a written way of sending drawings",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-14",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-030",
+      "R-RV-031",
+      "R-RV-032",
+      "R-RV-032r"
+    ],
+    "stage": "Competition",
+    "title_zh": "Shops planned 9 m wide, but the columns are 8.4 m apart",
+    "title_en": "Shops planned 9 m wide, but the columns are 8.4 m apart",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-09",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-025",
+      "R-LK-026",
+      "R-LK-027"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Pricing documents reviewed; client says go",
+    "title_en": "Pricing documents reviewed; client says go",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-15",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-033",
+      "R-RV-035",
+      "R-RV-036",
+      "R-RV-037"
+    ],
+    "stage": "Competition",
+    "title_zh": "One call: the shops follow the columns",
+    "title_en": "One call: the shops follow the columns",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-10",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-021",
+      "R-NG-022"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Façade consultant Jonas joins; comments back the same night",
+    "title_en": "Façade consultant Jonas joins; comments back the same night",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-11",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-023",
+      "R-NG-024",
+      "R-NG-025"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Half-way detailed drawings (version C) sent to all four parties",
+    "title_en": "Half-way detailed drawings (version C) sent to all four parties",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-10",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-028",
+      "R-LK-029",
+      "R-LK-030"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Drawings sent to four builders for prices",
+    "title_en": "Drawings sent to four builders for prices",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-12",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-027",
+      "R-NG-028",
+      "R-NG-029"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Cost consultant Ben starts the cost check",
+    "title_en": "Cost consultant Ben starts the cost check",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-13",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-030",
+      "R-NG-031"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Client's three comments on the half-way drawings",
+    "title_en": "Client's three comments on the half-way drawings",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-17",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-038",
+      "R-RV-039"
+    ],
+    "stage": "Competition",
+    "title_zh": "First pictures and the booklet template",
+    "title_en": "First pictures and the booklet template",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-14",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-032",
+      "R-NG-033",
+      "R-NG-033r"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Car park ramp too low: a column moves 1 m east",
+    "title_en": "Car park ramp too low: a column moves 1 m east",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-11",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-031",
+      "R-LK-031s"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Site visit for the builders: all four came",
+    "title_en": "Site visit for the builders: all four came",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-18",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-040"
+    ],
+    "stage": "Competition",
+    "title_zh": "Dian's three comments on the booklet",
+    "title_en": "Dian's three comments on the booklet",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-12",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-032",
+      "R-LK-033",
+      "R-LK-033r"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Builder's question: timber or aluminium window sill? Ask Kai",
+    "title_en": "Builder's question: timber or aluminium window sill? Ask Kai",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-19",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-041",
+      "R-RV-041s",
+      "R-CAL-RV-R2"
+    ],
+    "stage": "Competition",
+    "title_zh": "Review 2: Pai changes to one diagonal entrance (spoken only)",
+    "title_en": "Review 2: Pai changes to one diagonal entrance (spoken only)",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-15",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-034",
+      "R-NG-035",
+      "R-NG-034s"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Cost check: 6% over budget",
+    "title_en": "Cost check: 6% over budget",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-13",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-036",
+      "R-LK-037",
+      "R-LK-038"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "Council comments: door width, accessible toilet, parking",
+    "title_en": "Council comments: door width, accessible toilet, parking",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-20",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-042",
+      "R-RV-043",
+      "R-RV-044",
+      "R-RV-045",
+      "R-RV-046"
+    ],
+    "stage": "Competition",
+    "title_zh": "Two late nights: plans, pictures and areas redone",
+    "title_en": "Two late nights: plans, pictures and areas redone",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-14",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-040",
+      "R-T-LK-03-created"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "How we answer the council",
+    "title_en": "How we answer the council",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-16",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-036",
+      "R-NG-037",
+      "R-T-NG-06-completed"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Savings ideas checked with each engineer",
+    "title_en": "Savings ideas checked with each engineer",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-15",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-039",
+      "R-LK-039e"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Update to all four builders: six answers, aluminium window sill",
+    "title_en": "Update to all four builders: six answers, aluminium window sill",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-21",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-047",
+      "R-RV-048",
+      "R-RV-049",
+      "R-RV-050"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Competition entry submitted on time",
+    "title_en": "Competition entry submitted on time",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-22",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-051",
+      "R-RV-052",
+      "R-RV-053"
+    ],
+    "stage": "Competition",
+    "title_zh": "Jury review: Dian and Kai answer panel questions during leave",
+    "title_en": "Jury review: Dian and Kai answer panel questions during leave",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-16",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-041",
+      "R-LK-042"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Builders' last question: working hours on site",
+    "title_en": "Builders' last question: working hours on site",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-17",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-043",
+      "R-LK-046",
+      "R-LK-047",
+      "R-LK-048"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "Answers to the council comments sent",
+    "title_en": "Answers to the council comments sent",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-17",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-038",
+      "R-NG-039",
+      "R-NG-039s"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Savings meeting: options 1, 2 and 4 chosen; façade waits for a price",
+    "title_en": "Savings meeting: options 1, 2 and 4 chosen; façade waits for a price",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-CC-07",
+    "project_id": "corner_cafe",
+    "source_ids": [
+      "R-CC-025",
+      "R-CC-026",
+      "R-CC-027",
+      "R-CC-028",
+      "R-CC-029"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "The owner reverses his choice: the counter moves to the right wall",
+    "title_en": "The owner reverses his choice: the counter moves to the right wall",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-06",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-012",
+      "R-ST-012r",
+      "R-ST-013",
+      "R-ST-014"
+    ],
+    "stage": "Studio",
+    "title_zh": "A one-page handover for Kai before leave",
+    "title_en": "A one-page handover for Kai before leave",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-18",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-040",
+      "R-T-NG-08-created"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "The updated drawings (version D) must go to both the structural and services engineers",
+    "title_en": "The updated drawings (version D) must go to both the structural and services engineers",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-18",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-049",
+      "R-T-LK-05-created"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Kai to receive the builders' prices during leave",
+    "title_en": "Kai to receive the builders' prices during leave",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-19",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-051",
+      "R-LK-052",
+      "R-T-LK-05-completed"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "All four builders' prices arrive on time",
+    "title_en": "All four builders' prices arrive on time",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-20",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-050",
+      "R-LK-053"
+    ],
+    "stage": "Permits & approvals",
+    "title_zh": "Client asks about parking; answered after leave",
+    "title_en": "Client asks about parking; answered after leave",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-19",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-041",
+      "R-NG-041b",
+      "R-NG-041c",
+      "R-T-NG-07-u1"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Façade cost figures late; chased twice during leave",
+    "title_en": "Façade cost figures late; chased twice during leave",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-20",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-042",
+      "R-NG-043",
+      "R-NG-044"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "The updated drawings (version D) went to Wei only",
+    "title_en": "The updated drawings (version D) went to Wei only",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-12",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-WEEKLY-08-24",
+      "R-ST-WEEKLY-08-24-scribe"
+    ],
+    "stage": "Studio",
+    "title_zh": "Studio meeting during leave (read on return)",
+    "title_en": "Studio meeting during leave (read on return)",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-07",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-016",
+      "R-ST-016-reply",
+      "R-ST-017",
+      "R-ST-018"
+    ],
+    "stage": "Studio",
+    "title_zh": "Back from leave: Atlas lists what arrived in five days",
+    "title_en": "Back from leave: Atlas lists what arrived in five days",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-21",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-045",
+      "R-NG-046",
+      "R-NG-047"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "ModelCheck flags the structural engineer is still on the half-way drawings (version C)",
+    "title_en": "ModelCheck flags the structural engineer is still on the half-way drawings (version C)",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-21",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-054",
+      "R-LK-055",
+      "R-LK-055r"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Comparing the builders' prices: BuildRight and Kestrel to interview",
+    "title_en": "Comparing the builders' prices: BuildRight and Kestrel to interview",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-CC-08",
+    "project_id": "corner_cafe",
+    "source_ids": [
+      "R-CC-030",
+      "R-CC-031",
+      "R-CC-032",
+      "R-CC-033",
+      "R-CC-034"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Shop front glass late; the centre's check passed",
+    "title_en": "Shop front glass late; the centre's check passed",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-22",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-056"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Builder interview: meet site manager Sam",
+    "title_en": "Builder interview: meet site manager Sam",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-22",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-048",
+      "R-NG-052",
+      "R-T-NG-07-completed"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Façade cost figures arrive 13 days late",
+    "title_en": "Façade cost figures arrive 13 days late",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-23",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-057",
+      "R-LK-058",
+      "R-T-LK-06-completed"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Recommendation: choose BuildRight",
+    "title_en": "Recommendation: choose BuildRight",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-24",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-060",
+      "R-LK-062",
+      "R-LK-063"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Building permit approved",
+    "title_en": "Building permit approved",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-23",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-054",
+      "R-NG-055",
+      "R-NG-056"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Wrong drawings found in the meeting; version D sent again to everyone",
+    "title_en": "Wrong drawings found in the meeting; version D sent again to everyone",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-24",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-057",
+      "R-NG-058"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "A one-page checklist for sending drawings",
+    "title_en": "A one-page checklist for sending drawings",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-08",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-WEEKLY-09-07",
+      "R-ST-WEEKLY-09-07-scribe"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Pai: on every project, list every engineer when sending drawings",
+    "title_en": "Pai: on every project, list every engineer when sending drawings",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-25",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-064",
+      "R-LK-065",
+      "R-LK-066",
+      "R-LK-067"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Builder chosen: BuildRight",
+    "title_en": "Builder chosen: BuildRight",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-25",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-059",
+      "R-NG-064",
+      "R-T-NG-09-completed"
+    ],
+    "stage": "Coordination & cost",
+    "title_zh": "Li Na finishes redoing her work on the updated drawings (version D)",
+    "title_en": "Li Na finishes redoing her work on the updated drawings (version D)",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-23",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-054",
+      "R-RV-055"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Shortlisted (top three)",
+    "title_en": "Shortlisted (top three)",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-24",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-056",
+      "R-RV-057"
+    ],
+    "stage": "Competition",
+    "title_zh": "Preparing the presentation: who does what",
+    "title_en": "Preparing the presentation: who does what",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-26",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-060",
+      "R-NG-061"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Client asks for a 12 m lobby",
+    "title_en": "Client asks for a 12 m lobby",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-27",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-062",
+      "R-NG-062b",
+      "R-T-NG-10-completed"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Second opinion: 12 m loses the equipment room; 11 m recommended",
+    "title_en": "Second opinion: 12 m loses the equipment room; 11 m recommended",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-28",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-063",
+      "R-NG-063s"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Decision: 11 m lobby with one heavy beam above the entrance",
+    "title_en": "Decision: 11 m lobby with one heavy beam above the entrance",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-26",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-068",
+      "R-LK-069",
+      "R-LK-069s"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Meeting before building starts: schedule, deliveries, how to ask questions",
+    "title_en": "Meeting before building starts: schedule, deliveries, how to ask questions",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-29",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-065",
+      "R-NG-066",
+      "R-CAL-NG-DD100b"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Finished detailed drawings move to 25 September",
+    "title_en": "Finished detailed drawings move to 25 September",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-WP-08",
+    "project_id": "westpark_hospital",
+    "source_ids": [
+      "R-WP-021",
+      "R-WP-022"
+    ],
+    "stage": "Studies & site plans",
+    "title_zh": "September: the hospital is still waiting for the money",
+    "title_en": "September: the hospital is still waiting for the money",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-ST-09",
+    "project_id": "studio",
+    "source_ids": [
+      "R-ST-019",
+      "R-ST-WEEKLY-09-21"
+    ],
+    "stage": "Studio",
+    "title_zh": "Start on site and the interview in the same week",
+    "title_en": "Start on site and the interview in the same week",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-27",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-070",
+      "R-LK-071",
+      "R-LK-072",
+      "R-LK-073",
+      "R-LK-074"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Site group: keep steel 3 m from the tree roots",
+    "title_en": "Site group: keep steel 3 m from the tree roots",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-25",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-058",
+      "R-RV-058-reply",
+      "R-RV-059",
+      "R-RV-060"
+    ],
+    "stage": "Competition",
+    "title_zh": "Atlas guesses the jury questions; animation and slides",
+    "title_en": "Atlas guesses the jury questions; animation and slides",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-30",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-067",
+      "R-NG-068",
+      "R-NG-069",
+      "R-T-NG-12-completed"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Cut-through drawings, façade and services updated to 11 m",
+    "title_en": "Cut-through drawings, façade and services updated to 11 m",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-31",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-070",
+      "R-NG-072",
+      "R-NG-072b"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Check before sending: no open issues",
+    "title_en": "Check before sending: no open issues",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-26",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-061"
+    ],
+    "stage": "Competition",
+    "title_zh": "Rehearsal: start with the metro",
+    "title_en": "Rehearsal: start with the metro",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-28",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-075",
+      "R-LK-076",
+      "R-LK-077"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "On site from 21 September",
+    "title_en": "On site from 21 September",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-27",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-062",
+      "R-RV-063"
+    ],
+    "stage": "Competition",
+    "title_zh": "Presentation at Crestline",
+    "title_en": "Presentation at Crestline",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-32",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-071"
+    ],
+    "stage": "Detailed design",
+    "title_zh": "Client walks through the finished detailed drawings",
+    "title_en": "Client walks through the finished detailed drawings",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-29",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-078",
+      "R-LK-079",
+      "R-LK-080",
+      "R-LK-080r"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Builder's first question: rock is deeper than drawn",
+    "title_en": "Builder's first question: rock is deeper than drawn",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-30",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-081",
+      "R-LK-081s"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "First weekly site meeting",
+    "title_en": "First weekly site meeting",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-31",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-082",
+      "R-LK-083",
+      "R-LK-084"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Answer: dig down to rock and fill up with concrete",
+    "title_en": "Answer: dig down to rock and fill up with concrete",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-33",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-073",
+      "R-NG-074",
+      "R-NG-075",
+      "R-NG-076"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Finished detailed drawings (version E) sent, a week late",
+    "title_en": "Finished detailed drawings (version E) sent, a week late",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-NG-34",
+    "project_id": "northgate",
+    "source_ids": [
+      "R-NG-077",
+      "R-NG-078",
+      "R-CAL-NG-CD"
+    ],
+    "stage": "Drawings & versions",
+    "title_zh": "Construction drawings start: Kai leads",
+    "title_en": "Construction drawings start: Kai leads",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-32",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-085",
+      "R-LK-086",
+      "R-LK-087",
+      "R-LK-091"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Builder's window frame drawings: drip edge missing on type W2",
+    "title_en": "Builder's window frame drawings: drip edge missing on type W2",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-LK-33",
+    "project_id": "lakeside",
+    "source_ids": [
+      "R-LK-088",
+      "R-LK-089",
+      "R-LK-090"
+    ],
+    "stage": "Choosing the builder & building",
+    "title_zh": "Client asks for more power points in classrooms",
+    "title_en": "Client asks for more power points in classrooms",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-28",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-064",
+      "R-RV-065",
+      "R-RV-066"
+    ],
+    "stage": "Outcomes",
+    "title_zh": "Riverside competition won",
+    "title_en": "Riverside competition won",
+    "is_outcome": true,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-29",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-067",
+      "R-RV-068",
+      "R-RV-069"
+    ],
+    "stage": "Competition",
+    "title_zh": "Dian's five comments on the jury response draft",
+    "title_en": "Dian's five comments on the jury response draft",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-30",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-070",
+      "R-RV-071",
+      "R-RV-072",
+      "R-RV-073",
+      "R-RV-076"
+    ],
+    "stage": "Competition",
+    "title_zh": "Passed on to Davin and Siyi; ground-floor plan version H",
+    "title_en": "Passed on to Davin and Siyi; ground-floor plan version H",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  },
+  {
+    "id": "E-RV-31",
+    "project_id": "riverside",
+    "source_ids": [
+      "R-RV-074",
+      "R-RV-075",
+      "R-CAL-RV-KO"
+    ],
+    "stage": "Competition",
+    "title_zh": "Next-stage kick-off set for 8 October",
+    "title_en": "Next-stage kick-off set for 8 October",
+    "is_outcome": false,
+    "label_origin": "authored_summary_of_synthetic_sources"
+  }
+]

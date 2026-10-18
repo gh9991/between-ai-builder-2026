@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Between · My contributions</title>
+<style>
+:root{color-scheme:dark;--ink:#eef2fa;--muted:#97a3ba;--faint:#6f7d96;--line:rgba(170,190,235,.14);--panel:rgba(14,21,38,.66);--panel2:rgba(20,29,50,.72);--gold:#ffd08a;--blue:#9ec2ff;--violet:#b9a8ff}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(ellipse at 50% -10%,#1a2340,#070b16 62%) fixed,#070b16;color:var(--ink);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif}
+.wrap{max-width:1040px;margin:auto;padding-block:30px 60px;padding-inline:max(16px,3vw)}
+.overline{font:600 11px/1 ui-monospace,Menlo,monospace;letter-spacing:.18em;color:var(--violet);text-transform:uppercase}
+h1{margin:10px 0 6px;font-size:30px;line-height:1.2;text-wrap:balance}
+.stats{display:flex;flex-wrap:wrap;gap:4px 18px;color:var(--muted);font-size:13.5px}.stats b{color:var(--ink);font-weight:650;font-variant-numeric:tabular-nums}
+.hero{display:grid;grid-template-columns:auto minmax(0,1fr);gap:22px;align-items:center}
+.orb{position:relative;width:150px;height:150px;border-radius:50%;background:radial-gradient(circle at 50% 50%,#fff 0,#d9d0ff 6%,rgba(150,130,255,.55) 22%,rgba(70,60,160,.25) 48%,transparent 70%)}
+.orb.live{background:radial-gradient(circle,rgba(120,100,230,.18),transparent 68%)}
+.orb canvas{position:absolute;inset:0;width:100%;height:100%}
+.proj-row{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:2px}
+.timeline>li{border-radius:0 10px 10px 0;scroll-margin-top:40px;padding:4px 10px;margin-left:-10px}
+@media(max-width:560px){.hero{grid-template-columns:1fr}.orb{width:110px;height:110px}}
+.about{margin-top:10px;font-size:13px;color:var(--muted)}.about summary{cursor:pointer;color:var(--blue);list-style:none;display:inline-flex;gap:6px;align-items:center}.about summary::-webkit-details-marker{display:none}.about p{margin:8px 0 0;max-width:68ch}
+.filters{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 26px}
+.filters label{display:flex;align-items:center;gap:8px;padding:5px 6px 5px 14px;border:1px solid var(--line);border-radius:999px;background:var(--panel);font-size:12.5px;color:var(--muted)}
+select{appearance:none;background:rgba(255,255,255,.04) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%2397a3ba' stroke-width='1.5'/%3E%3C/svg%3E") no-repeat right 12px center;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:6px 32px 6px 12px;font:inherit;font-size:13px;max-width:62vw;cursor:pointer}
+select:focus-visible,summary:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+h2{font-size:19px;margin:0}
+.section-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px}.scope{color:var(--muted);font-size:13px}
+.work-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+.work{position:relative;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:18px 20px 14px 24px;overflow:hidden}
+.work::before{content:"";position:absolute;inset:0 auto 0 0;width:4px;background:var(--c,var(--gold))}
+.work-head{display:flex;gap:12px;align-items:baseline}
+.num{flex:none;font:600 12px/1 ui-monospace,Menlo,monospace;color:var(--faint);min-width:18px}
+.proj{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;color:var(--muted);margin-bottom:2px}.proj i{width:8px;height:8px;border-radius:50%;background:var(--c,var(--gold))}
+.work h3{margin:0;font-size:17px;line-height:1.35;color:var(--gold);text-wrap:balance}
+.work p.text{margin:6px 0 0;font-size:15.5px;line-height:1.65;color:#e4e9f4;max-width:78ch}
+.work-body{min-width:0;flex:1}
+details.more>summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:7px;margin-top:10px;padding:5px 12px;border-radius:999px;border:1px solid var(--line);background:rgba(255,255,255,.03);color:var(--blue);font-size:12.5px}
+details.more>summary::-webkit-details-marker{display:none}
+details.more>summary::before{content:"";width:6px;height:6px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(-45deg);transition:transform .15s}
+details.more[open]>summary::before{transform:rotate(45deg)}
+details.more>summary:hover{border-color:rgba(158,194,255,.45)}
+.timeline{list-style:none;margin:14px 0 4px;padding:0 0 0 18px;border-left:1px solid var(--line);display:flex;flex-direction:column;gap:14px}
+.timeline>li{position:relative}
+.timeline>li::before{content:"";position:absolute;left:-14px;top:11px;width:9px;height:9px;border-radius:50%;background:#0b1222;border:2px solid var(--c,var(--gold))}
+.when{font:600 11.5px/1 ui-monospace,Menlo,monospace;letter-spacing:.04em;color:var(--muted)}
+.timeline h4{margin:4px 0 0;font-size:14.5px;color:var(--ink)}
+.timeline p{margin:4px 0 0;font-size:14px;color:#cfd7e6;max-width:76ch}
+.card{margin-top:10px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:var(--panel2)}
+.card-head{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:6px}
+.chip{font-size:11px;padding:3px 9px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid var(--line);color:var(--muted)}
+.card h5{margin:2px 0 8px;font-size:14.5px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 22px}
+.grid>div{min-width:0}
+.card h6{margin:10px 0 4px;font:600 10.5px/1.2 ui-monospace,Menlo,monospace;letter-spacing:.12em;text-transform:uppercase;color:var(--violet)}
+.claim{padding:6px 0;border-bottom:1px solid rgba(170,190,235,.08);font-size:13.5px}.claim p{margin:0}
+.claim details{margin-top:3px;font-size:12px;color:var(--muted)}.claim summary{cursor:pointer;color:var(--blue)}
+.src{margin-top:6px}.src b{font:600 11px ui-monospace,Menlo,monospace;color:var(--muted)}
+blockquote{margin:4px 0 0;padding:8px 12px;border-left:2px solid var(--violet);border-radius:0 8px 8px 0;background:rgba(7,11,22,.6);white-space:pre-wrap;overflow-wrap:anywhere;color:#c3cbe0;font-size:12.5px;max-height:220px;overflow:auto}
+.indep{margin-top:10px;font-size:13px;color:var(--muted)}.indep b{color:var(--ink)}
+.unknowns{margin-top:6px;font-size:12.5px;color:var(--muted)}.unknowns summary{cursor:pointer;color:var(--blue)}.unknowns ul{margin:6px 0 0;padding-left:18px}
+.others{margin-top:18px}
+.archive{margin-top:42px}
+.month{margin-top:10px;border:1px solid var(--line);border-radius:14px;background:var(--panel)}
+.month>summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;gap:10px;padding:13px 18px;font-weight:600}
+.month>summary::-webkit-details-marker{display:none}.month>summary span{color:var(--muted);font-weight:400;font-size:13px}
+.month[open]>summary{color:var(--gold)}
+.month-body{padding:0 18px 16px}.month-body .note{font-size:12.5px;color:var(--faint);margin:0 0 4px}
+.gaps{font-size:13px;color:var(--muted)}.gaps summary{cursor:pointer;color:var(--blue)}
+.card:target,.card:focus{outline:2px solid var(--gold);outline-offset:3px}
+.empty{color:var(--muted);padding:18px 0}
+@media(max-width:720px){.grid{grid-template-columns:1fr}h1{font-size:25px}.work{padding:16px 16px 12px 20px}.work-head{gap:8px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="hero">
+    <div class="orb" id="orb" role="img" aria-label="My contributions nebula"></div>
+    <div>
+      <div class="overline">My contributions · Work archive</div>
+      <h1>What I actually worked on</h1>
+      <div class="stats" id="stats" aria-live="polite"></div>
+      <details class="about"><summary>ⓘ About this record</summary>
+      <p>Written by AI from my own emails, chats, meeting notes and files. Every line can be traced to the original record. It is a record of my work, not a formal evaluation, and it is still waiting for my own review.</p></details>
+    </div>
+  </div>
+  <nav class="filters" aria-label="Filters">
+    <label>Month <select id="month"></select></label>
+    <label>Project <select id="project"></select></label>
+  </nav>
+</header>
+<main>
+  <section id="main-summary" aria-labelledby="summary-heading"></section>
+  <section class="archive" aria-labelledby="archive-heading">
+    <div class="section-head"><h2 id="archive-heading">Every work card, month by month</h2><span class="scope">With the source records each line is based on</span></div>
+    <div id="cards"></div>
+  </section>
+</main>
+</div>
+<script type="application/json" id="data">__REPORT_DATA__</script>
+<script type="application/json" id="main-summaries">__MAIN_SUMMARIES__</script>
+<script type="module">
+// Release pages resolve the same archive as the desk; standalone historical exports keep embedded data.
+const releaseArchive = await import('../archive-loader.js').then(m => m.loadReleaseArchive()).catch(error => {
+  if (new URLSearchParams(location.search).get('mode') && new URLSearchParams(location.search).get('mode') !== 'demo') {
+    document.body.textContent = 'Work archive could not load. Please reload to try again.'; throw error;
+  }
+  return null;
+});
+// Monthly narratives are only safe once the entire source month is known.
+function completedReportMonths(months, asOf) {
+  if (!asOf) return months;
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(asOf) || !Number.isFinite(Date.parse(asOf))) return [];
+  return months.filter(m => {
+    const [year, month] = m.report.month.split('-').map(Number);
+    const lastDay = new Date(Date.UTC(year, month, 0)).toISOString().slice(0, 10);
+    return lastDay <= asOf;
+  });
+}
+const allData = releaseArchive?.report.months || JSON.parse(document.getElementById('data').textContent);
+const asOf = new URLSearchParams(location.search).get('asof');
+const data = completedReportMonths(allData, asOf);
+const completeArchive = data.length === allData.length;
+const visibleMonths = new Set(data.map(m => m.report.month));
+const summaries = releaseArchive?.report.summaries || JSON.parse(document.getElementById('main-summaries').textContent);
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+const names = Object.assign({}, ...data.map(m => m.project_names || {}));
+const projectName = id => (names[id] || id).split(' — ')[0];
+const projects = [...new Set(data.flatMap(m => [...m.report.cards, ...m.report.uncovered_projects].map(c => c.project_id)))].sort((a, b) => projectName(a).localeCompare(projectName(b)));
+let colors = {};
+const colorOf = id => colors[id] ? '#' + colors[id] : 'var(--gold)';
+const monthName = (month, style = 'short') => new Intl.DateTimeFormat('en', {year:'numeric', month:style, timeZone:'UTC'}).format(new Date(month + '-01T00:00:00Z'));
+const cards = new Map();   // card id -> {month, card}
+for (const m of data) m.report.cards.forEach((card, i) => cards.set(`work-${m.report.month}-${i}`, {month: m.report.month, card}));
+function reportRange() {
+  const months = data.map(m => m.report.month).sort();
+  if (!months.length) return 'As of ' + asOf + ' · no completed month yet';
+  return monthName(months[0], 'long') + ' – ' + monthName(months.at(-1), 'long');
+}
+const stage = s => { s = String(s || '').replaceAll('_', ' '); return s.charAt(0).toUpperCase() + s.slice(1); };
+function claim(c) {
+  return '<div class="claim"><p>' + esc(c.text) + '</p><details><summary>Source' + (c.evidence.length > 1 ? 's' : '') + ' (' + c.evidence.length + ')</summary>'
+    + c.evidence.map(e => '<div class="src"><b>' + esc(e.source_id) + ' · ' + esc(e.field) + '</b><blockquote>' + esc(e.quote) + '</blockquote></div>').join('') + '</details></div>';
+}
+const section = (title, claims) => claims.length ? '<div><h6>' + title + '</h6>' + claims.map(claim).join('') + '</div>' : '';
+function cardHTML(id, {head = true} = {}) {
+  const {month, card: c} = cards.get(id);
+  return '<article class="card" tabindex="-1" id="' + esc(id) + '" style="--c:' + colorOf(c.project_id) + '">'
+    + (head ? '<div class="card-head"><span class="chip">' + esc(monthName(month)) + '</span><span class="chip">' + esc(projectName(c.project_id)) + '</span><span class="chip">' + esc(stage(c.work_stage)) + '</span></div>' : '<div class="card-head"><span class="chip">' + esc(stage(c.work_stage)) + '</span></div>')
+    + '<h5>' + esc(c.title) + '</h5><div class="grid">'
+    + section('What I did', c.grace_contributions) + section('Guidance and work by others', c.guidance_and_collaboration)
+    + section('What came out of it', c.outputs_and_status) + section('Methods and tools', c.methods_and_tools) + '</div>'
+    + '<div class="indep"><b>Independence:</b> ' + esc(c.independence.replaceAll('_', ' ')) + '</div>'
+    + (c.independence_basis ? claim(c.independence_basis) : '')
+    + (c.unknowns.length ? '<details class="unknowns"><summary>What the records don’t show</summary><ul>' + c.unknowns.map(x => '<li>' + esc(x) + '</li>').join('') + '</ul></details>' : '')
+    + '</article>';
+}
+// Count original source records across all displayed claims, not cards or repeated citations.
+function sourceCount(references) {
+  const sourceIds = new Set();
+  for (const {card_id} of references) {
+    const {card} = cards.get(card_id);
+    const claims = [...card.grace_contributions, ...card.guidance_and_collaboration,
+      ...card.outputs_and_status, ...card.methods_and_tools,
+      ...(card.independence_basis ? [card.independence_basis] : [])];
+    for (const claim of claims) for (const evidence of claim.evidence) sourceIds.add(evidence.source_id);
+  }
+  return sourceIds.size;
+}
+function workDetailsLabel(references) {
+  const count = sourceCount(references);
+  return 'Work details · ' + count + ' source' + (count === 1 ? '' : 's');
+}
+function monthlyCardsLabel(months) {
+  // Match the sum of the source counts shown on the individual monthly cards.
+  const total = months.reduce((sum, month) => sum + sourceCount(month.references), 0);
+  return 'Month by month (' + months.length + ') · Sources (' + total + ')';
+}
+// A project's monthly summaries, in time order; each opens its work card and sources.
+function overTime(projectId) {
+  const months = summaries.monthly.filter(e => e.project_id === projectId && visibleMonths.has(e.month)).sort((a, b) => a.month.localeCompare(b.month));
+  if (!months.length) return '';
+  return '<details class="more" data-key="time-' + esc(projectId) + '"><summary>' + monthlyCardsLabel(months) + '</summary><ol class="timeline">'
+    + months.map(e => '<li data-month="' + e.month + '"><div class="when">' + esc(monthName(e.month)) + '</div><h4>' + esc(e.title.en) + '</h4><p>' + esc(e.text.en) + '</p>'
+      + '<details class="more" data-key="cards-' + esc(projectId + e.month) + '"><summary>' + workDetailsLabel(e.references) + '</summary>'
+      + e.references.map(r => cardHTML(r.card_id, {head: false})).join('') + '</details></li>').join('')
+    + '</ol></details>';
+}
+function summaryList(entries, start, monthly) {
+  return '<ol class="work-list">' + entries.map((e, i) => '<li class="work" style="--c:' + colorOf(e.project_id) + '"><div class="work-head"><span class="num">' + String(start + i).padStart(2, '0') + '</span><div class="work-body">'
+    + '<div class="proj-row"><div class="proj"><i></i>' + esc(projectName(e.project_id)) + (monthly ? ' · ' + esc(monthName(e.month)) : '') + '</div>' + '</div>'
+    + '<h3>' + esc(e.title.en) + '</h3><p class="text">' + esc(e.text.en) + '</p>'
+    + (monthly
+      ? '<details class="more" data-key="cards-' + esc(e.project_id + e.month) + '"><summary>' + workDetailsLabel(e.references) + '</summary>' + e.references.map(r => cardHTML(r.card_id, {head: false})).join('') + '</details>'
+      : overTime(e.project_id))
+    + '</div></div></li>').join('') + '</ol>';
+}
+function renderMainSummary() {
+  const month = $('month').value, project = $('project').value;
+  const monthly = month !== 'all' || !completeArchive;
+  const entries = (month === 'all'
+    ? (completeArchive ? summaries.overview : summaries.monthly.filter(e => visibleMonths.has(e.month)))
+    : summaries.monthly.filter(e => e.month === month && visibleMonths.has(e.month)))
+    .filter(e => project === 'all' || e.project_id === project);
+  const scope = month === 'all' ? reportRange() + ' · each project from start to now' : monthName(month, 'long') + ' · what I did this month';
+  const more = month === 'all' && project === 'all' && entries.length > 6;
+  $('main-summary').innerHTML = '<div class="section-head"><h2 id="summary-heading">Main work</h2><span class="scope">' + esc(scope) + '</span></div>'
+    + (entries.length ? summaryList(more ? entries.slice(0, 6) : entries, 1, monthly) : '<p class="empty">Nothing with enough evidence for this selection yet.</p>')
+    + (more ? '<details class="more others" data-key="more-work"><summary>Other projects and work (' + (entries.length - 6) + ')</summary><div style="margin-top:12px">' + summaryList(entries.slice(6), 7, monthly) + '</div></details>' : '');
+}
+function render() {
+  const opened = new Set([...document.querySelectorAll('details[open][data-key]')].map(el => el.dataset.key));
+  renderMainSummary();
+  let content = '';
+  for (const m of data) {
+    if ($('month').value !== 'all' && $('month').value !== m.report.month) continue;
+    const ids = m.report.cards.map((c, i) => ({c, id: `work-${m.report.month}-${i}`})).filter(({c}) => $('project').value === 'all' || c.project_id === $('project').value);
+    const gaps = m.report.uncovered_projects.filter(p => $('project').value === 'all' || p.project_id === $('project').value);
+    if (!ids.length && !gaps.length) continue;
+    content += '<details class="month" data-key="' + m.report.month + '-cards"><summary>' + esc(monthName(m.report.month, 'long')) + '<span>' + ids.length + ' work card' + (ids.length === 1 ? '' : 's') + ' · ' + m.summary.records + ' records</span></summary><div class="month-body">'
+      + '<p class="note">' + esc(m.validation.issues.length) + ' unresolved reference checks · ' + esc(m.summary.withheld_items) + ' unsupported items left out · still waiting for my review</p>'
+      + (gaps.length ? '<details class="gaps"><summary>Projects with no card this month (' + gaps.length + ')</summary><ul>' + gaps.map(p => '<li><b>' + esc(projectName(p.project_id)) + ':</b> ' + esc(p.reason) + '</li>').join('') + '</ul></details>' : '')
+      + ids.map(({id}) => cardHTML(id)).join('') + '</div></details>';
+  }
+  // The archive repeats the cards; give them distinct ids so links land in the archive copy.
+  $('cards').innerHTML = (content || '<p class="empty">No work cards for this selection.</p>').replaceAll('id="work-', 'id="archive-work-');
+  document.querySelectorAll('details[data-key]').forEach(el => { el.open = opened.has(el.dataset.key); });
+}
+function setup() {
+  const records = data.reduce((n, m) => n + m.summary.records, 0), count = data.reduce((n, m) => n + m.summary.cards, 0);
+  $('stats').innerHTML = '<span>' + esc(reportRange()) + '</span><span><b>' + data.length + '</b> months</span><span><b>' + projects.length + '</b> projects</span><span><b>' + count + '</b> work cards</span><span><b>' + new Intl.NumberFormat('en').format(records) + '</b> records read</span>'
+    + (asOf && !completeArchive ? '<span>Completed months only</span>' : '');
+  $('month').innerHTML = '<option value="all">Whole year</option>' + data.map(m => '<option value="' + m.report.month + '">' + esc(monthName(m.report.month, 'long')) + '</option>').join('');
+  $('project').innerHTML = '<option value="all">All projects</option>' + projects.map(p => '<option value="' + esc(p) + '">' + esc(projectName(p)) + '</option>').join('');
+  render();
+}
+$('month').addEventListener('change', render);
+$('project').addEventListener('change', render);
+setup();
+// Project colours come from the persona's scenario, when the report sits beside the app data.
+const persona = (location.pathname.split('/').pop() || '').replace(/\.html$/, '');
+if (/^[a-z0-9_-]+$/.test(persona)) (releaseArchive ? Promise.resolve(releaseArchive.config) : fetch('../data/scenarios/' + persona + '/scenario.json').then(r => r.ok ? r.json() : null))
+  .then(s => { if (!s?.projects) return; colors = Object.fromEntries(Object.entries(s.projects).map(([id, p]) => [id, p.color])); render(); }).catch(() => {});
+// The same contribution nebula as on the desk, when the report sits beside the app; a soft glow otherwise.
+(async () => {
+  try {
+    const [THREE, {buildNebula}] = await Promise.all([import('../vendor/three.module.js'), import('../universe2-nebula.js')]);
+    const orb = $('orb'), canvas = document.createElement('canvas'); orb.append(canvas); orb.classList.add('live');
+    const R = new THREE.WebGLRenderer({canvas, antialias: true, alpha: true}); R.setPixelRatio(Math.min(devicePixelRatio, 2)); R.setSize(canvas.clientWidth, canvas.clientHeight, false);
+    const scene = new THREE.Scene(), cam = new THREE.PerspectiveCamera(36, 1, .05, 20), group = new THREE.Group(); scene.add(group);
+    const tick = buildNebula(group, {projects: Object.values(colors).map(c => ({color: parseInt(c, 16)}))});
+    cam.position.set(0, 1.5, 4.3); cam.lookAt(0, 0, 0);
+    const still = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const frame = t => { tick(still ? 4 : t / 1000); R.render(scene, cam); if (!still) requestAnimationFrame(frame); };
+    requestAnimationFrame(frame);
+  } catch {}
+})();
+if (new URLSearchParams(location.search).get('embed') === '1') {
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape') {
+      event.preventDefault();
+      window.parent.postMessage({type:'between-contributions-close'}, location.origin);
+    }
+  });
+}
+</script>
+</body>
+</html>

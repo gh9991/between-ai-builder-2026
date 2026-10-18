@@ -1,0 +1,14 @@
+{
+  "name": "between-work-memory",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild app-universe2.js --bundle --format=iife --minify --outfile=universe2.bundle.js && node scripts/monthly-contributions/publish.mjs",
+    "check": "node --check app-universe2.js && python3 verify_data.py && node --test *.test.js styles/*.test.js daily-memory/*.test.js scripts/monthly-contributions/report.test.mjs",
+    "memory:build": "node scripts/run_daily_memory.mjs --provider authored"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.0"
+  }
+}

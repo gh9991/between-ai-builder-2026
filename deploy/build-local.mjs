@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';
+import {spawnSync} from 'node:child_process';
+import {fileURLToPath} from 'node:url';
+const root = fileURLToPath(new URL('../', import.meta.url));
+const output = fileURLToPath(new URL('../dist-cloud/', import.meta.url));
+await fs.rm(output, {recursive:true, force:true});
+const git = spawnSync('git', ['rev-parse', 'HEAD'], {cwd:root, encoding:'utf8'});
+const commit = git.status === 0 ? git.stdout.trim() : 'local';
+const result = spawnSync(process.execPath, ['deploy/package.mjs', output, commit], {cwd:root, stdio:'inherit'});
+process.exit(result.status ?? 1);
